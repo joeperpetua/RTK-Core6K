@@ -6,7 +6,7 @@ const fs = require('fs');
 let filteredCore6k = [];
 let rtkCore6k = [];
 
-// step 1 filter between hiragana and compound vocab
+// step 1 - filter between hiragana and compound vocab
 for (let core6kElement = 0; core6kElement < core6k.length; core6kElement++) {
     if (hasKanji(core6k[core6kElement]["Vocabulary-Kanji"])) {
         filteredCore6k.push(core6k[core6kElement]);
@@ -15,7 +15,7 @@ for (let core6kElement = 0; core6kElement < core6k.length; core6kElement++) {
 
 // console.log(core6k.length, filteredCore6k.length);
 let deleted = 0;
-// step 2 get amount of kanji in vocab
+// step 2 - get amount of kanji in vocab
 for (let fCore6kElement = 0; fCore6kElement < filteredCore6k.length; fCore6kElement++) {
     let vocabKanjis = [];
     for (let char = 0; char < filteredCore6k[fCore6kElement]["Vocabulary-Kanji"].length; char++) {
@@ -25,7 +25,7 @@ for (let fCore6kElement = 0; fCore6kElement < filteredCore6k.length; fCore6kElem
     }
     // console.log(filteredCore6k[fCore6kElement]["Vocabulary-Kanji"], vocabKanjis);
     
-    // step 3 search each kanji in the RTK lessons
+    // step 3 - search each kanji in the RTK lessons
     let matchingKanji = {
         matches: 0,
         lesson: 0

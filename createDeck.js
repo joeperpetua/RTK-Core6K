@@ -1,3 +1,8 @@
+/*
+    This script uses AnkiConnect to create and add the decks and notes to Anki,
+    If you are considering using this, check the AnkiConnect docs to setup up the environment.
+*/
+
 const XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 const xhr = new XMLHttpRequest();
 const rtk = require('../get kanjis per lesson/RTKcore6k.json');
