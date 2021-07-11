@@ -1,6 +1,6 @@
-# RTK-Core6K
+# Optimized RTK-Core6K
 
-This is a modification of the Japanese Core 6K deck (https://djtguide.neocities.org/anki.html) filtered and ordered by Remembering the Kanji 6th Edition (2200 kanji) lessons.
+This is a modification of the Japanese Optimized Core 6K deck (https://djtguide.neocities.org/anki.html) filtered and ordered by Remembering the Kanji 6th Edition (2200 kanji) lessons.
 
 The deck contains subdecks for each lesson of the book, in each subdeck there are words of the Core 6K that contain the kanji seen on the lesson, this assuring you to learn vocabulary of which you know all the kanjis. 
 
