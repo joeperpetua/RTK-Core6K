@@ -8,7 +8,9 @@ Each entry is also tagged with its corresponding lesson so creating filtered dec
 
 The deck does not include the images that includes the Core 6K but it does include the original audio files.
 
-All the words that did not contain any kanji were removed from the deck as well as the words that contained kanji not present on the Remembering the Kanji list.
+All the words that did not contain any kanji were removed from the deck as well as the words that contained kanji not present on the Remembering the Kanji list, out of the 6000 words in the original deck, 5015 are being used in this deck.
+
+
 
 You can check the files used for both RTK Kanji list and Core 6K words and the algorithm used to sort them out and add them using AnkiConenct in the deck Github repository: (https://github.com/joeperpetua/RTK-Core6K/)
 
