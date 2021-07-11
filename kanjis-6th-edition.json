@@ -1,0 +1,8802 @@
+[
+ {
+   "kanji": "一",
+   "lesson": 1
+ },
+ {
+   "kanji": "二",
+   "lesson": 1
+ },
+ {
+   "kanji": "三",
+   "lesson": 1
+ },
+ {
+   "kanji": "四",
+   "lesson": 1
+ },
+ {
+   "kanji": "五",
+   "lesson": 1
+ },
+ {
+   "kanji": "六",
+   "lesson": 1
+ },
+ {
+   "kanji": "七",
+   "lesson": 1
+ },
+ {
+   "kanji": "八",
+   "lesson": 1
+ },
+ {
+   "kanji": "九",
+   "lesson": 1
+ },
+ {
+   "kanji": "十",
+   "lesson": 1
+ },
+ {
+   "kanji": "口",
+   "lesson": 1
+ },
+ {
+   "kanji": "日",
+   "lesson": 1
+ },
+ {
+   "kanji": "月",
+   "lesson": 1
+ },
+ {
+   "kanji": "田",
+   "lesson": 1
+ },
+ {
+   "kanji": "目",
+   "lesson": 1
+ },
+ {
+   "kanji": "古",
+   "lesson": 2
+ },
+ {
+   "kanji": "吾",
+   "lesson": 2
+ },
+ {
+   "kanji": "冒",
+   "lesson": 2
+ },
+ {
+   "kanji": "朋",
+   "lesson": 2
+ },
+ {
+   "kanji": "明",
+   "lesson": 2
+ },
+ {
+   "kanji": "唱",
+   "lesson": 2
+ },
+ {
+   "kanji": "晶",
+   "lesson": 2
+ },
+ {
+   "kanji": "品",
+   "lesson": 2
+ },
+ {
+   "kanji": "呂",
+   "lesson": 2
+ },
+ {
+   "kanji": "昌",
+   "lesson": 2
+ },
+ {
+   "kanji": "早",
+   "lesson": 2
+ },
+ {
+   "kanji": "旭",
+   "lesson": 2
+ },
+ {
+   "kanji": "世",
+   "lesson": 2
+ },
+ {
+   "kanji": "胃",
+   "lesson": 2
+ },
+ {
+   "kanji": "旦",
+   "lesson": 2
+ },
+ {
+   "kanji": "胆",
+   "lesson": 2
+ },
+ {
+   "kanji": "亘",
+   "lesson": 2
+ },
+ {
+   "kanji": "凹",
+   "lesson": 2
+ },
+ {
+   "kanji": "凸",
+   "lesson": 2
+ },
+ {
+   "kanji": "旧",
+   "lesson": 3
+ },
+ {
+   "kanji": "自",
+   "lesson": 3
+ },
+ {
+   "kanji": "白",
+   "lesson": 3
+ },
+ {
+   "kanji": "百",
+   "lesson": 3
+ },
+ {
+   "kanji": "中",
+   "lesson": 3
+ },
+ {
+   "kanji": "千",
+   "lesson": 3
+ },
+ {
+   "kanji": "舌",
+   "lesson": 3
+ },
+ {
+   "kanji": "升",
+   "lesson": 3
+ },
+ {
+   "kanji": "昇",
+   "lesson": 3
+ },
+ {
+   "kanji": "丸",
+   "lesson": 3
+ },
+ {
+   "kanji": "寸",
+   "lesson": 3
+ },
+ {
+   "kanji": "肘",
+   "lesson": 3
+ },
+ {
+   "kanji": "専",
+   "lesson": 3
+ },
+ {
+   "kanji": "博",
+   "lesson": 3
+ },
+ {
+   "kanji": "占",
+   "lesson": 3
+ },
+ {
+   "kanji": "上",
+   "lesson": 3
+ },
+ {
+   "kanji": "下",
+   "lesson": 3
+ },
+ {
+   "kanji": "卓",
+   "lesson": 3
+ },
+ {
+   "kanji": "朝",
+   "lesson": 3
+ },
+ {
+   "kanji": "嘲",
+   "lesson": 3
+ },
+ {
+   "kanji": "只",
+   "lesson": 4
+ },
+ {
+   "kanji": "貝",
+   "lesson": 4
+ },
+ {
+   "kanji": "唄",
+   "lesson": 4
+ },
+ {
+   "kanji": "貞",
+   "lesson": 4
+ },
+ {
+   "kanji": "員",
+   "lesson": 4
+ },
+ {
+   "kanji": "貼",
+   "lesson": 4
+ },
+ {
+   "kanji": "見",
+   "lesson": 4
+ },
+ {
+   "kanji": "児",
+   "lesson": 4
+ },
+ {
+   "kanji": "元",
+   "lesson": 4
+ },
+ {
+   "kanji": "頁",
+   "lesson": 4
+ },
+ {
+   "kanji": "頑",
+   "lesson": 4
+ },
+ {
+   "kanji": "凡",
+   "lesson": 4
+ },
+ {
+   "kanji": "負",
+   "lesson": 4
+ },
+ {
+   "kanji": "万",
+   "lesson": 4
+ },
+ {
+   "kanji": "句",
+   "lesson": 4
+ },
+ {
+   "kanji": "肌",
+   "lesson": 4
+ },
+ {
+   "kanji": "旬",
+   "lesson": 4
+ },
+ {
+   "kanji": "勺",
+   "lesson": 4
+ },
+ {
+   "kanji": "的",
+   "lesson": 4
+ },
+ {
+   "kanji": "首",
+   "lesson": 4
+ },
+ {
+   "kanji": "乙",
+   "lesson": 5
+ },
+ {
+   "kanji": "乱",
+   "lesson": 5
+ },
+ {
+   "kanji": "直",
+   "lesson": 5
+ },
+ {
+   "kanji": "具",
+   "lesson": 5
+ },
+ {
+   "kanji": "真",
+   "lesson": 5
+ },
+ {
+   "kanji": "工",
+   "lesson": 5
+ },
+ {
+   "kanji": "左",
+   "lesson": 5
+ },
+ {
+   "kanji": "右",
+   "lesson": 5
+ },
+ {
+   "kanji": "有",
+   "lesson": 5
+ },
+ {
+   "kanji": "賄",
+   "lesson": 5
+ },
+ {
+   "kanji": "貢",
+   "lesson": 5
+ },
+ {
+   "kanji": "項",
+   "lesson": 5
+ },
+ {
+   "kanji": "刀",
+   "lesson": 5
+ },
+ {
+   "kanji": "刃",
+   "lesson": 5
+ },
+ {
+   "kanji": "切",
+   "lesson": 5
+ },
+ {
+   "kanji": "召",
+   "lesson": 5
+ },
+ {
+   "kanji": "昭",
+   "lesson": 5
+ },
+ {
+   "kanji": "則",
+   "lesson": 5
+ },
+ {
+   "kanji": "副",
+   "lesson": 5
+ },
+ {
+   "kanji": "別",
+   "lesson": 5
+ },
+ {
+   "kanji": "丁",
+   "lesson": 5
+ },
+ {
+   "kanji": "町",
+   "lesson": 5
+ },
+ {
+   "kanji": "可",
+   "lesson": 5
+ },
+ {
+   "kanji": "頂",
+   "lesson": 5
+ },
+ {
+   "kanji": "子",
+   "lesson": 6
+ },
+ {
+   "kanji": "孔",
+   "lesson": 6
+ },
+ {
+   "kanji": "了",
+   "lesson": 6
+ },
+ {
+   "kanji": "女",
+   "lesson": 6
+ },
+ {
+   "kanji": "好",
+   "lesson": 6
+ },
+ {
+   "kanji": "如",
+   "lesson": 6
+ },
+ {
+   "kanji": "母",
+   "lesson": 6
+ },
+ {
+   "kanji": "貫",
+   "lesson": 6
+ },
+ {
+   "kanji": "兄",
+   "lesson": 6
+ },
+ {
+   "kanji": "呪",
+   "lesson": 6
+ },
+ {
+   "kanji": "克",
+   "lesson": 6
+ },
+ {
+   "kanji": "小",
+   "lesson": 7
+ },
+ {
+   "kanji": "少",
+   "lesson": 7
+ },
+ {
+   "kanji": "大",
+   "lesson": 7
+ },
+ {
+   "kanji": "多",
+   "lesson": 7
+ },
+ {
+   "kanji": "夕",
+   "lesson": 7
+ },
+ {
+   "kanji": "汐",
+   "lesson": 7
+ },
+ {
+   "kanji": "外",
+   "lesson": 7
+ },
+ {
+   "kanji": "名",
+   "lesson": 7
+ },
+ {
+   "kanji": "石",
+   "lesson": 7
+ },
+ {
+   "kanji": "肖",
+   "lesson": 7
+ },
+ {
+   "kanji": "硝",
+   "lesson": 7
+ },
+ {
+   "kanji": "砕",
+   "lesson": 7
+ },
+ {
+   "kanji": "砂",
+   "lesson": 7
+ },
+ {
+   "kanji": "妬",
+   "lesson": 7
+ },
+ {
+   "kanji": "削",
+   "lesson": 7
+ },
+ {
+   "kanji": "光",
+   "lesson": 7
+ },
+ {
+   "kanji": "太",
+   "lesson": 7
+ },
+ {
+   "kanji": "器",
+   "lesson": 7
+ },
+ {
+   "kanji": "臭",
+   "lesson": 7
+ },
+ {
+   "kanji": "嗅",
+   "lesson": 7
+ },
+ {
+   "kanji": "妙",
+   "lesson": 7
+ },
+ {
+   "kanji": "省",
+   "lesson": 7
+ },
+ {
+   "kanji": "厚",
+   "lesson": 7
+ },
+ {
+   "kanji": "奇",
+   "lesson": 7
+ },
+ {
+   "kanji": "川",
+   "lesson": 8
+ },
+ {
+   "kanji": "州",
+   "lesson": 8
+ },
+ {
+   "kanji": "順",
+   "lesson": 8
+ },
+ {
+   "kanji": "水",
+   "lesson": 8
+ },
+ {
+   "kanji": "氷",
+   "lesson": 8
+ },
+ {
+   "kanji": "永",
+   "lesson": 8
+ },
+ {
+   "kanji": "泉",
+   "lesson": 8
+ },
+ {
+   "kanji": "腺",
+   "lesson": 8
+ },
+ {
+   "kanji": "原",
+   "lesson": 8
+ },
+ {
+   "kanji": "願",
+   "lesson": 8
+ },
+ {
+   "kanji": "泳",
+   "lesson": 8
+ },
+ {
+   "kanji": "沼",
+   "lesson": 8
+ },
+ {
+   "kanji": "沖",
+   "lesson": 8
+ },
+ {
+   "kanji": "汎",
+   "lesson": 8
+ },
+ {
+   "kanji": "江",
+   "lesson": 8
+ },
+ {
+   "kanji": "汰",
+   "lesson": 8
+ },
+ {
+   "kanji": "汁",
+   "lesson": 8
+ },
+ {
+   "kanji": "沙",
+   "lesson": 8
+ },
+ {
+   "kanji": "潮",
+   "lesson": 8
+ },
+ {
+   "kanji": "源",
+   "lesson": 8
+ },
+ {
+   "kanji": "活",
+   "lesson": 8
+ },
+ {
+   "kanji": "消",
+   "lesson": 8
+ },
+ {
+   "kanji": "況",
+   "lesson": 8
+ },
+ {
+   "kanji": "河",
+   "lesson": 8
+ },
+ {
+   "kanji": "泊",
+   "lesson": 8
+ },
+ {
+   "kanji": "湖",
+   "lesson": 8
+ },
+ {
+   "kanji": "測",
+   "lesson": 8
+ },
+ {
+   "kanji": "土",
+   "lesson": 8
+ },
+ {
+   "kanji": "吐",
+   "lesson": 8
+ },
+ {
+   "kanji": "圧",
+   "lesson": 8
+ },
+ {
+   "kanji": "埼",
+   "lesson": 8
+ },
+ {
+   "kanji": "垣",
+   "lesson": 8
+ },
+ {
+   "kanji": "填",
+   "lesson": 8
+ },
+ {
+   "kanji": "圭",
+   "lesson": 8
+ },
+ {
+   "kanji": "封",
+   "lesson": 8
+ },
+ {
+   "kanji": "涯",
+   "lesson": 8
+ },
+ {
+   "kanji": "寺",
+   "lesson": 8
+ },
+ {
+   "kanji": "時",
+   "lesson": 8
+ },
+ {
+   "kanji": "均",
+   "lesson": 8
+ },
+ {
+   "kanji": "火",
+   "lesson": 8
+ },
+ {
+   "kanji": "炎",
+   "lesson": 8
+ },
+ {
+   "kanji": "煩",
+   "lesson": 8
+ },
+ {
+   "kanji": "淡",
+   "lesson": 8
+ },
+ {
+   "kanji": "灯",
+   "lesson": 8
+ },
+ {
+   "kanji": "畑",
+   "lesson": 8
+ },
+ {
+   "kanji": "災",
+   "lesson": 8
+ },
+ {
+   "kanji": "灰",
+   "lesson": 8
+ },
+ {
+   "kanji": "点",
+   "lesson": 8
+ },
+ {
+   "kanji": "照",
+   "lesson": 8
+ },
+ {
+   "kanji": "魚",
+   "lesson": 8
+ },
+ {
+   "kanji": "漁",
+   "lesson": 8
+ },
+ {
+   "kanji": "里",
+   "lesson": 9
+ },
+ {
+   "kanji": "黒",
+   "lesson": 9
+ },
+ {
+   "kanji": "墨",
+   "lesson": 9
+ },
+ {
+   "kanji": "鯉",
+   "lesson": 9
+ },
+ {
+   "kanji": "量",
+   "lesson": 9
+ },
+ {
+   "kanji": "厘",
+   "lesson": 9
+ },
+ {
+   "kanji": "埋",
+   "lesson": 9
+ },
+ {
+   "kanji": "同",
+   "lesson": 9
+ },
+ {
+   "kanji": "洞",
+   "lesson": 9
+ },
+ {
+   "kanji": "胴",
+   "lesson": 9
+ },
+ {
+   "kanji": "向",
+   "lesson": 9
+ },
+ {
+   "kanji": "尚",
+   "lesson": 9
+ },
+ {
+   "kanji": "字",
+   "lesson": 9
+ },
+ {
+   "kanji": "守",
+   "lesson": 9
+ },
+ {
+   "kanji": "完",
+   "lesson": 9
+ },
+ {
+   "kanji": "宣",
+   "lesson": 9
+ },
+ {
+   "kanji": "宵",
+   "lesson": 9
+ },
+ {
+   "kanji": "安",
+   "lesson": 9
+ },
+ {
+   "kanji": "宴",
+   "lesson": 9
+ },
+ {
+   "kanji": "寄",
+   "lesson": 9
+ },
+ {
+   "kanji": "富",
+   "lesson": 9
+ },
+ {
+   "kanji": "貯",
+   "lesson": 9
+ },
+ {
+   "kanji": "木",
+   "lesson": 10
+ },
+ {
+   "kanji": "林",
+   "lesson": 10
+ },
+ {
+   "kanji": "森",
+   "lesson": 10
+ },
+ {
+   "kanji": "桂",
+   "lesson": 10
+ },
+ {
+   "kanji": "柏",
+   "lesson": 10
+ },
+ {
+   "kanji": "枠",
+   "lesson": 10
+ },
+ {
+   "kanji": "梢",
+   "lesson": 10
+ },
+ {
+   "kanji": "棚",
+   "lesson": 10
+ },
+ {
+   "kanji": "杏",
+   "lesson": 10
+ },
+ {
+   "kanji": "桐",
+   "lesson": 10
+ },
+ {
+   "kanji": "植",
+   "lesson": 10
+ },
+ {
+   "kanji": "椅",
+   "lesson": 10
+ },
+ {
+   "kanji": "枯",
+   "lesson": 10
+ },
+ {
+   "kanji": "朴",
+   "lesson": 10
+ },
+ {
+   "kanji": "村",
+   "lesson": 10
+ },
+ {
+   "kanji": "相",
+   "lesson": 10
+ },
+ {
+   "kanji": "机",
+   "lesson": 10
+ },
+ {
+   "kanji": "本",
+   "lesson": 10
+ },
+ {
+   "kanji": "札",
+   "lesson": 10
+ },
+ {
+   "kanji": "暦",
+   "lesson": 10
+ },
+ {
+   "kanji": "案",
+   "lesson": 10
+ },
+ {
+   "kanji": "燥",
+   "lesson": 10
+ },
+ {
+   "kanji": "未",
+   "lesson": 10
+ },
+ {
+   "kanji": "昧",
+   "lesson": 10
+ },
+ {
+   "kanji": "末",
+   "lesson": 10
+ },
+ {
+   "kanji": "沫",
+   "lesson": 10
+ },
+ {
+   "kanji": "味",
+   "lesson": 10
+ },
+ {
+   "kanji": "妹",
+   "lesson": 10
+ },
+ {
+   "kanji": "朱",
+   "lesson": 10
+ },
+ {
+   "kanji": "株",
+   "lesson": 10
+ },
+ {
+   "kanji": "若",
+   "lesson": 10
+ },
+ {
+   "kanji": "草",
+   "lesson": 10
+ },
+ {
+   "kanji": "苦",
+   "lesson": 10
+ },
+ {
+   "kanji": "苛",
+   "lesson": 10
+ },
+ {
+   "kanji": "寛",
+   "lesson": 10
+ },
+ {
+   "kanji": "薄",
+   "lesson": 10
+ },
+ {
+   "kanji": "葉",
+   "lesson": 10
+ },
+ {
+   "kanji": "模",
+   "lesson": 10
+ },
+ {
+   "kanji": "漠",
+   "lesson": 10
+ },
+ {
+   "kanji": "墓",
+   "lesson": 10
+ },
+ {
+   "kanji": "暮",
+   "lesson": 10
+ },
+ {
+   "kanji": "膜",
+   "lesson": 10
+ },
+ {
+   "kanji": "苗",
+   "lesson": 10
+ },
+ {
+   "kanji": "兆",
+   "lesson": 11
+ },
+ {
+   "kanji": "桃",
+   "lesson": 11
+ },
+ {
+   "kanji": "眺",
+   "lesson": 11
+ },
+ {
+   "kanji": "犬",
+   "lesson": 11
+ },
+ {
+   "kanji": "状",
+   "lesson": 11
+ },
+ {
+   "kanji": "黙",
+   "lesson": 11
+ },
+ {
+   "kanji": "然",
+   "lesson": 11
+ },
+ {
+   "kanji": "荻",
+   "lesson": 11
+ },
+ {
+   "kanji": "狩",
+   "lesson": 11
+ },
+ {
+   "kanji": "猫",
+   "lesson": 11
+ },
+ {
+   "kanji": "牛",
+   "lesson": 11
+ },
+ {
+   "kanji": "特",
+   "lesson": 11
+ },
+ {
+   "kanji": "告",
+   "lesson": 11
+ },
+ {
+   "kanji": "先",
+   "lesson": 11
+ },
+ {
+   "kanji": "洗",
+   "lesson": 11
+ },
+ {
+   "kanji": "介",
+   "lesson": 12
+ },
+ {
+   "kanji": "界",
+   "lesson": 12
+ },
+ {
+   "kanji": "茶",
+   "lesson": 12
+ },
+ {
+   "kanji": "脊",
+   "lesson": 12
+ },
+ {
+   "kanji": "合",
+   "lesson": 12
+ },
+ {
+   "kanji": "塔",
+   "lesson": 12
+ },
+ {
+   "kanji": "王",
+   "lesson": 12
+ },
+ {
+   "kanji": "玉",
+   "lesson": 12
+ },
+ {
+   "kanji": "宝",
+   "lesson": 12
+ },
+ {
+   "kanji": "珠",
+   "lesson": 12
+ },
+ {
+   "kanji": "現",
+   "lesson": 12
+ },
+ {
+   "kanji": "玩",
+   "lesson": 12
+ },
+ {
+   "kanji": "狂",
+   "lesson": 12
+ },
+ {
+   "kanji": "旺",
+   "lesson": 12
+ },
+ {
+   "kanji": "皇",
+   "lesson": 12
+ },
+ {
+   "kanji": "呈",
+   "lesson": 12
+ },
+ {
+   "kanji": "全",
+   "lesson": 12
+ },
+ {
+   "kanji": "栓",
+   "lesson": 12
+ },
+ {
+   "kanji": "理",
+   "lesson": 12
+ },
+ {
+   "kanji": "主",
+   "lesson": 12
+ },
+ {
+   "kanji": "注",
+   "lesson": 12
+ },
+ {
+   "kanji": "柱",
+   "lesson": 12
+ },
+ {
+   "kanji": "金",
+   "lesson": 12
+ },
+ {
+   "kanji": "銑",
+   "lesson": 12
+ },
+ {
+   "kanji": "鉢",
+   "lesson": 12
+ },
+ {
+   "kanji": "銅",
+   "lesson": 12
+ },
+ {
+   "kanji": "釣",
+   "lesson": 12
+ },
+ {
+   "kanji": "針",
+   "lesson": 12
+ },
+ {
+   "kanji": "銘",
+   "lesson": 12
+ },
+ {
+   "kanji": "鎮",
+   "lesson": 12
+ },
+ {
+   "kanji": "道",
+   "lesson": 13
+ },
+ {
+   "kanji": "導",
+   "lesson": 13
+ },
+ {
+   "kanji": "辻",
+   "lesson": 13
+ },
+ {
+   "kanji": "迅",
+   "lesson": 13
+ },
+ {
+   "kanji": "造",
+   "lesson": 13
+ },
+ {
+   "kanji": "迫",
+   "lesson": 13
+ },
+ {
+   "kanji": "逃",
+   "lesson": 13
+ },
+ {
+   "kanji": "辺",
+   "lesson": 13
+ },
+ {
+   "kanji": "巡",
+   "lesson": 13
+ },
+ {
+   "kanji": "車",
+   "lesson": 13
+ },
+ {
+   "kanji": "連",
+   "lesson": 13
+ },
+ {
+   "kanji": "軌",
+   "lesson": 13
+ },
+ {
+   "kanji": "輸",
+   "lesson": 13
+ },
+ {
+   "kanji": "喩",
+   "lesson": 13
+ },
+ {
+   "kanji": "前",
+   "lesson": 13
+ },
+ {
+   "kanji": "煎",
+   "lesson": 13
+ },
+ {
+   "kanji": "各",
+   "lesson": 13
+ },
+ {
+   "kanji": "格",
+   "lesson": 13
+ },
+ {
+   "kanji": "賂",
+   "lesson": 13
+ },
+ {
+   "kanji": "略",
+   "lesson": 13
+ },
+ {
+   "kanji": "客",
+   "lesson": 13
+ },
+ {
+   "kanji": "額",
+   "lesson": 13
+ },
+ {
+   "kanji": "夏",
+   "lesson": 13
+ },
+ {
+   "kanji": "処",
+   "lesson": 13
+ },
+ {
+   "kanji": "条",
+   "lesson": 13
+ },
+ {
+   "kanji": "落",
+   "lesson": 13
+ },
+ {
+   "kanji": "冗",
+   "lesson": 14
+ },
+ {
+   "kanji": "冥",
+   "lesson": 14
+ },
+ {
+   "kanji": "軍",
+   "lesson": 14
+ },
+ {
+   "kanji": "輝",
+   "lesson": 14
+ },
+ {
+   "kanji": "運",
+   "lesson": 14
+ },
+ {
+   "kanji": "冠",
+   "lesson": 14
+ },
+ {
+   "kanji": "夢",
+   "lesson": 14
+ },
+ {
+   "kanji": "坑",
+   "lesson": 14
+ },
+ {
+   "kanji": "高",
+   "lesson": 14
+ },
+ {
+   "kanji": "享",
+   "lesson": 14
+ },
+ {
+   "kanji": "塾",
+   "lesson": 14
+ },
+ {
+   "kanji": "熟",
+   "lesson": 14
+ },
+ {
+   "kanji": "亭",
+   "lesson": 14
+ },
+ {
+   "kanji": "京",
+   "lesson": 14
+ },
+ {
+   "kanji": "涼",
+   "lesson": 14
+ },
+ {
+   "kanji": "景",
+   "lesson": 14
+ },
+ {
+   "kanji": "鯨",
+   "lesson": 14
+ },
+ {
+   "kanji": "舎",
+   "lesson": 14
+ },
+ {
+   "kanji": "周",
+   "lesson": 14
+ },
+ {
+   "kanji": "週",
+   "lesson": 14
+ },
+ {
+   "kanji": "士",
+   "lesson": 14
+ },
+ {
+   "kanji": "吉",
+   "lesson": 14
+ },
+ {
+   "kanji": "壮",
+   "lesson": 14
+ },
+ {
+   "kanji": "荘",
+   "lesson": 14
+ },
+ {
+   "kanji": "売",
+   "lesson": 14
+ },
+ {
+   "kanji": "学",
+   "lesson": 15
+ },
+ {
+   "kanji": "覚",
+   "lesson": 15
+ },
+ {
+   "kanji": "栄",
+   "lesson": 15
+ },
+ {
+   "kanji": "書",
+   "lesson": 15
+ },
+ {
+   "kanji": "津",
+   "lesson": 15
+ },
+ {
+   "kanji": "牧",
+   "lesson": 15
+ },
+ {
+   "kanji": "攻",
+   "lesson": 15
+ },
+ {
+   "kanji": "敗",
+   "lesson": 15
+ },
+ {
+   "kanji": "枚",
+   "lesson": 15
+ },
+ {
+   "kanji": "故",
+   "lesson": 15
+ },
+ {
+   "kanji": "敬",
+   "lesson": 15
+ },
+ {
+   "kanji": "言",
+   "lesson": 15
+ },
+ {
+   "kanji": "警",
+   "lesson": 15
+ },
+ {
+   "kanji": "計",
+   "lesson": 15
+ },
+ {
+   "kanji": "詮",
+   "lesson": 15
+ },
+ {
+   "kanji": "獄",
+   "lesson": 15
+ },
+ {
+   "kanji": "訂",
+   "lesson": 15
+ },
+ {
+   "kanji": "訃",
+   "lesson": 15
+ },
+ {
+   "kanji": "討",
+   "lesson": 15
+ },
+ {
+   "kanji": "訓",
+   "lesson": 15
+ },
+ {
+   "kanji": "詔",
+   "lesson": 15
+ },
+ {
+   "kanji": "詰",
+   "lesson": 15
+ },
+ {
+   "kanji": "話",
+   "lesson": 15
+ },
+ {
+   "kanji": "詠",
+   "lesson": 15
+ },
+ {
+   "kanji": "詩",
+   "lesson": 15
+ },
+ {
+   "kanji": "語",
+   "lesson": 15
+ },
+ {
+   "kanji": "読",
+   "lesson": 15
+ },
+ {
+   "kanji": "調",
+   "lesson": 15
+ },
+ {
+   "kanji": "談",
+   "lesson": 15
+ },
+ {
+   "kanji": "諾",
+   "lesson": 15
+ },
+ {
+   "kanji": "諭",
+   "lesson": 15
+ },
+ {
+   "kanji": "式",
+   "lesson": 16
+ },
+ {
+   "kanji": "試",
+   "lesson": 16
+ },
+ {
+   "kanji": "弐",
+   "lesson": 16
+ },
+ {
+   "kanji": "域",
+   "lesson": 16
+ },
+ {
+   "kanji": "賊",
+   "lesson": 16
+ },
+ {
+   "kanji": "栽",
+   "lesson": 16
+ },
+ {
+   "kanji": "載",
+   "lesson": 16
+ },
+ {
+   "kanji": "茂",
+   "lesson": 16
+ },
+ {
+   "kanji": "戚",
+   "lesson": 16
+ },
+ {
+   "kanji": "成",
+   "lesson": 16
+ },
+ {
+   "kanji": "城",
+   "lesson": 16
+ },
+ {
+   "kanji": "誠",
+   "lesson": 16
+ },
+ {
+   "kanji": "威",
+   "lesson": 16
+ },
+ {
+   "kanji": "滅",
+   "lesson": 16
+ },
+ {
+   "kanji": "減",
+   "lesson": 16
+ },
+ {
+   "kanji": "蔑",
+   "lesson": 16
+ },
+ {
+   "kanji": "桟",
+   "lesson": 16
+ },
+ {
+   "kanji": "銭",
+   "lesson": 16
+ },
+ {
+   "kanji": "浅",
+   "lesson": 16
+ },
+ {
+   "kanji": "止",
+   "lesson": 17
+ },
+ {
+   "kanji": "歩",
+   "lesson": 17
+ },
+ {
+   "kanji": "渉",
+   "lesson": 17
+ },
+ {
+   "kanji": "頻",
+   "lesson": 17
+ },
+ {
+   "kanji": "肯",
+   "lesson": 17
+ },
+ {
+   "kanji": "企",
+   "lesson": 17
+ },
+ {
+   "kanji": "歴",
+   "lesson": 17
+ },
+ {
+   "kanji": "武",
+   "lesson": 17
+ },
+ {
+   "kanji": "賦",
+   "lesson": 17
+ },
+ {
+   "kanji": "正",
+   "lesson": 17
+ },
+ {
+   "kanji": "証",
+   "lesson": 17
+ },
+ {
+   "kanji": "政",
+   "lesson": 17
+ },
+ {
+   "kanji": "定",
+   "lesson": 17
+ },
+ {
+   "kanji": "錠",
+   "lesson": 17
+ },
+ {
+   "kanji": "走",
+   "lesson": 17
+ },
+ {
+   "kanji": "超",
+   "lesson": 17
+ },
+ {
+   "kanji": "赴",
+   "lesson": 17
+ },
+ {
+   "kanji": "越",
+   "lesson": 17
+ },
+ {
+   "kanji": "是",
+   "lesson": 17
+ },
+ {
+   "kanji": "題",
+   "lesson": 17
+ },
+ {
+   "kanji": "堤",
+   "lesson": 17
+ },
+ {
+   "kanji": "建",
+   "lesson": 17
+ },
+ {
+   "kanji": "鍵",
+   "lesson": 17
+ },
+ {
+   "kanji": "延",
+   "lesson": 17
+ },
+ {
+   "kanji": "誕",
+   "lesson": 17
+ },
+ {
+   "kanji": "礎",
+   "lesson": 17
+ },
+ {
+   "kanji": "婿",
+   "lesson": 17
+ },
+ {
+   "kanji": "衣",
+   "lesson": 18
+ },
+ {
+   "kanji": "裁",
+   "lesson": 18
+ },
+ {
+   "kanji": "装",
+   "lesson": 18
+ },
+ {
+   "kanji": "裏",
+   "lesson": 18
+ },
+ {
+   "kanji": "壊",
+   "lesson": 18
+ },
+ {
+   "kanji": "哀",
+   "lesson": 18
+ },
+ {
+   "kanji": "遠",
+   "lesson": 18
+ },
+ {
+   "kanji": "猿",
+   "lesson": 18
+ },
+ {
+   "kanji": "初",
+   "lesson": 18
+ },
+ {
+   "kanji": "巾",
+   "lesson": 18
+ },
+ {
+   "kanji": "布",
+   "lesson": 18
+ },
+ {
+   "kanji": "帆",
+   "lesson": 18
+ },
+ {
+   "kanji": "幅",
+   "lesson": 18
+ },
+ {
+   "kanji": "帽",
+   "lesson": 18
+ },
+ {
+   "kanji": "幕",
+   "lesson": 18
+ },
+ {
+   "kanji": "幌",
+   "lesson": 18
+ },
+ {
+   "kanji": "錦",
+   "lesson": 18
+ },
+ {
+   "kanji": "市",
+   "lesson": 18
+ },
+ {
+   "kanji": "柿",
+   "lesson": 18
+ },
+ {
+   "kanji": "姉",
+   "lesson": 18
+ },
+ {
+   "kanji": "肺",
+   "lesson": 18
+ },
+ {
+   "kanji": "帯",
+   "lesson": 18
+ },
+ {
+   "kanji": "滞",
+   "lesson": 18
+ },
+ {
+   "kanji": "刺",
+   "lesson": 18
+ },
+ {
+   "kanji": "制",
+   "lesson": 18
+ },
+ {
+   "kanji": "製",
+   "lesson": 18
+ },
+ {
+   "kanji": "転",
+   "lesson": 18
+ },
+ {
+   "kanji": "芸",
+   "lesson": 18
+ },
+ {
+   "kanji": "雨",
+   "lesson": 18
+ },
+ {
+   "kanji": "雲",
+   "lesson": 18
+ },
+ {
+   "kanji": "曇",
+   "lesson": 18
+ },
+ {
+   "kanji": "雷",
+   "lesson": 18
+ },
+ {
+   "kanji": "霜",
+   "lesson": 18
+ },
+ {
+   "kanji": "冬",
+   "lesson": 18
+ },
+ {
+   "kanji": "天",
+   "lesson": 18
+ },
+ {
+   "kanji": "妖",
+   "lesson": 18
+ },
+ {
+   "kanji": "沃",
+   "lesson": 18
+ },
+ {
+   "kanji": "橋",
+   "lesson": 18
+ },
+ {
+   "kanji": "嬌",
+   "lesson": 18
+ },
+ {
+   "kanji": "立",
+   "lesson": 18
+ },
+ {
+   "kanji": "泣",
+   "lesson": 18
+ },
+ {
+   "kanji": "章",
+   "lesson": 18
+ },
+ {
+   "kanji": "競",
+   "lesson": 18
+ },
+ {
+   "kanji": "帝",
+   "lesson": 18
+ },
+ {
+   "kanji": "諦",
+   "lesson": 18
+ },
+ {
+   "kanji": "童",
+   "lesson": 18
+ },
+ {
+   "kanji": "瞳",
+   "lesson": 18
+ },
+ {
+   "kanji": "鐘",
+   "lesson": 18
+ },
+ {
+   "kanji": "商",
+   "lesson": 18
+ },
+ {
+   "kanji": "嫡",
+   "lesson": 18
+ },
+ {
+   "kanji": "適",
+   "lesson": 18
+ },
+ {
+   "kanji": "滴",
+   "lesson": 18
+ },
+ {
+   "kanji": "敵",
+   "lesson": 18
+ },
+ {
+   "kanji": "匕",
+   "lesson": 18
+ },
+ {
+   "kanji": "叱",
+   "lesson": 18
+ },
+ {
+   "kanji": "匂",
+   "lesson": 18
+ },
+ {
+   "kanji": "頃",
+   "lesson": 18
+ },
+ {
+   "kanji": "北",
+   "lesson": 18
+ },
+ {
+   "kanji": "背",
+   "lesson": 18
+ },
+ {
+   "kanji": "比",
+   "lesson": 18
+ },
+ {
+   "kanji": "昆",
+   "lesson": 18
+ },
+ {
+   "kanji": "皆",
+   "lesson": 18
+ },
+ {
+   "kanji": "楷",
+   "lesson": 18
+ },
+ {
+   "kanji": "諧",
+   "lesson": 18
+ },
+ {
+   "kanji": "混",
+   "lesson": 18
+ },
+ {
+   "kanji": "渇",
+   "lesson": 18
+ },
+ {
+   "kanji": "謁",
+   "lesson": 18
+ },
+ {
+   "kanji": "褐",
+   "lesson": 18
+ },
+ {
+   "kanji": "喝",
+   "lesson": 18
+ },
+ {
+   "kanji": "葛",
+   "lesson": 18
+ },
+ {
+   "kanji": "旨",
+   "lesson": 18
+ },
+ {
+   "kanji": "脂",
+   "lesson": 18
+ },
+ {
+   "kanji": "詣",
+   "lesson": 18
+ },
+ {
+   "kanji": "壱",
+   "lesson": 18
+ },
+ {
+   "kanji": "毎",
+   "lesson": 18
+ },
+ {
+   "kanji": "敏",
+   "lesson": 18
+ },
+ {
+   "kanji": "梅",
+   "lesson": 18
+ },
+ {
+   "kanji": "海",
+   "lesson": 18
+ },
+ {
+   "kanji": "乞",
+   "lesson": 18
+ },
+ {
+   "kanji": "乾",
+   "lesson": 18
+ },
+ {
+   "kanji": "腹",
+   "lesson": 18
+ },
+ {
+   "kanji": "複",
+   "lesson": 18
+ },
+ {
+   "kanji": "欠",
+   "lesson": 18
+ },
+ {
+   "kanji": "吹",
+   "lesson": 18
+ },
+ {
+   "kanji": "炊",
+   "lesson": 18
+ },
+ {
+   "kanji": "歌",
+   "lesson": 18
+ },
+ {
+   "kanji": "軟",
+   "lesson": 18
+ },
+ {
+   "kanji": "次",
+   "lesson": 18
+ },
+ {
+   "kanji": "茨",
+   "lesson": 18
+ },
+ {
+   "kanji": "資",
+   "lesson": 18
+ },
+ {
+   "kanji": "姿",
+   "lesson": 18
+ },
+ {
+   "kanji": "諮",
+   "lesson": 18
+ },
+ {
+   "kanji": "賠",
+   "lesson": 19
+ },
+ {
+   "kanji": "培",
+   "lesson": 19
+ },
+ {
+   "kanji": "剖",
+   "lesson": 19
+ },
+ {
+   "kanji": "音",
+   "lesson": 19
+ },
+ {
+   "kanji": "暗",
+   "lesson": 19
+ },
+ {
+   "kanji": "韻",
+   "lesson": 19
+ },
+ {
+   "kanji": "識",
+   "lesson": 19
+ },
+ {
+   "kanji": "鏡",
+   "lesson": 19
+ },
+ {
+   "kanji": "境",
+   "lesson": 19
+ },
+ {
+   "kanji": "亡",
+   "lesson": 19
+ },
+ {
+   "kanji": "盲",
+   "lesson": 19
+ },
+ {
+   "kanji": "妄",
+   "lesson": 19
+ },
+ {
+   "kanji": "荒",
+   "lesson": 19
+ },
+ {
+   "kanji": "望",
+   "lesson": 19
+ },
+ {
+   "kanji": "方",
+   "lesson": 19
+ },
+ {
+   "kanji": "妨",
+   "lesson": 19
+ },
+ {
+   "kanji": "坊",
+   "lesson": 19
+ },
+ {
+   "kanji": "芳",
+   "lesson": 19
+ },
+ {
+   "kanji": "肪",
+   "lesson": 19
+ },
+ {
+   "kanji": "訪",
+   "lesson": 19
+ },
+ {
+   "kanji": "放",
+   "lesson": 19
+ },
+ {
+   "kanji": "激",
+   "lesson": 19
+ },
+ {
+   "kanji": "脱",
+   "lesson": 19
+ },
+ {
+   "kanji": "説",
+   "lesson": 19
+ },
+ {
+   "kanji": "鋭",
+   "lesson": 19
+ },
+ {
+   "kanji": "曽",
+   "lesson": 19
+ },
+ {
+   "kanji": "増",
+   "lesson": 19
+ },
+ {
+   "kanji": "贈",
+   "lesson": 19
+ },
+ {
+   "kanji": "東",
+   "lesson": 19
+ },
+ {
+   "kanji": "棟",
+   "lesson": 19
+ },
+ {
+   "kanji": "凍",
+   "lesson": 19
+ },
+ {
+   "kanji": "妊",
+   "lesson": 19
+ },
+ {
+   "kanji": "廷",
+   "lesson": 19
+ },
+ {
+   "kanji": "染",
+   "lesson": 20
+ },
+ {
+   "kanji": "燃",
+   "lesson": 20
+ },
+ {
+   "kanji": "賓",
+   "lesson": 20
+ },
+ {
+   "kanji": "歳",
+   "lesson": 20
+ },
+ {
+   "kanji": "県",
+   "lesson": 20
+ },
+ {
+   "kanji": "栃",
+   "lesson": 20
+ },
+ {
+   "kanji": "地",
+   "lesson": 21
+ },
+ {
+   "kanji": "池",
+   "lesson": 21
+ },
+ {
+   "kanji": "虫",
+   "lesson": 21
+ },
+ {
+   "kanji": "蛍",
+   "lesson": 21
+ },
+ {
+   "kanji": "蛇",
+   "lesson": 21
+ },
+ {
+   "kanji": "虹",
+   "lesson": 21
+ },
+ {
+   "kanji": "蝶",
+   "lesson": 21
+ },
+ {
+   "kanji": "独",
+   "lesson": 21
+ },
+ {
+   "kanji": "蚕",
+   "lesson": 21
+ },
+ {
+   "kanji": "風",
+   "lesson": 21
+ },
+ {
+   "kanji": "己",
+   "lesson": 21
+ },
+ {
+   "kanji": "起",
+   "lesson": 21
+ },
+ {
+   "kanji": "妃",
+   "lesson": 21
+ },
+ {
+   "kanji": "改",
+   "lesson": 21
+ },
+ {
+   "kanji": "記",
+   "lesson": 21
+ },
+ {
+   "kanji": "包",
+   "lesson": 21
+ },
+ {
+   "kanji": "胞",
+   "lesson": 21
+ },
+ {
+   "kanji": "砲",
+   "lesson": 21
+ },
+ {
+   "kanji": "泡",
+   "lesson": 21
+ },
+ {
+   "kanji": "亀",
+   "lesson": 21
+ },
+ {
+   "kanji": "電",
+   "lesson": 21
+ },
+ {
+   "kanji": "竜",
+   "lesson": 21
+ },
+ {
+   "kanji": "滝",
+   "lesson": 21
+ },
+ {
+   "kanji": "豚",
+   "lesson": 21
+ },
+ {
+   "kanji": "逐",
+   "lesson": 21
+ },
+ {
+   "kanji": "遂",
+   "lesson": 21
+ },
+ {
+   "kanji": "家",
+   "lesson": 21
+ },
+ {
+   "kanji": "嫁",
+   "lesson": 21
+ },
+ {
+   "kanji": "豪",
+   "lesson": 21
+ },
+ {
+   "kanji": "腸",
+   "lesson": 21
+ },
+ {
+   "kanji": "場",
+   "lesson": 21
+ },
+ {
+   "kanji": "湯",
+   "lesson": 21
+ },
+ {
+   "kanji": "羊",
+   "lesson": 21
+ },
+ {
+   "kanji": "美",
+   "lesson": 21
+ },
+ {
+   "kanji": "洋",
+   "lesson": 21
+ },
+ {
+   "kanji": "詳",
+   "lesson": 21
+ },
+ {
+   "kanji": "鮮",
+   "lesson": 21
+ },
+ {
+   "kanji": "達",
+   "lesson": 21
+ },
+ {
+   "kanji": "羨",
+   "lesson": 21
+ },
+ {
+   "kanji": "差",
+   "lesson": 21
+ },
+ {
+   "kanji": "着",
+   "lesson": 21
+ },
+ {
+   "kanji": "唯",
+   "lesson": 21
+ },
+ {
+   "kanji": "堆",
+   "lesson": 21
+ },
+ {
+   "kanji": "椎",
+   "lesson": 21
+ },
+ {
+   "kanji": "誰",
+   "lesson": 21
+ },
+ {
+   "kanji": "焦",
+   "lesson": 21
+ },
+ {
+   "kanji": "礁",
+   "lesson": 21
+ },
+ {
+   "kanji": "集",
+   "lesson": 21
+ },
+ {
+   "kanji": "准",
+   "lesson": 21
+ },
+ {
+   "kanji": "進",
+   "lesson": 21
+ },
+ {
+   "kanji": "雑",
+   "lesson": 21
+ },
+ {
+   "kanji": "雌",
+   "lesson": 21
+ },
+ {
+   "kanji": "準",
+   "lesson": 21
+ },
+ {
+   "kanji": "奮",
+   "lesson": 21
+ },
+ {
+   "kanji": "奪",
+   "lesson": 21
+ },
+ {
+   "kanji": "確",
+   "lesson": 21
+ },
+ {
+   "kanji": "午",
+   "lesson": 21
+ },
+ {
+   "kanji": "許",
+   "lesson": 21
+ },
+ {
+   "kanji": "歓",
+   "lesson": 21
+ },
+ {
+   "kanji": "権",
+   "lesson": 21
+ },
+ {
+   "kanji": "観",
+   "lesson": 21
+ },
+ {
+   "kanji": "羽",
+   "lesson": 21
+ },
+ {
+   "kanji": "習",
+   "lesson": 21
+ },
+ {
+   "kanji": "翌",
+   "lesson": 21
+ },
+ {
+   "kanji": "曜",
+   "lesson": 21
+ },
+ {
+   "kanji": "濯",
+   "lesson": 21
+ },
+ {
+   "kanji": "曰",
+   "lesson": 22
+ },
+ {
+   "kanji": "困",
+   "lesson": 22
+ },
+ {
+   "kanji": "固",
+   "lesson": 22
+ },
+ {
+   "kanji": "錮",
+   "lesson": 22
+ },
+ {
+   "kanji": "国",
+   "lesson": 22
+ },
+ {
+   "kanji": "団",
+   "lesson": 22
+ },
+ {
+   "kanji": "因",
+   "lesson": 22
+ },
+ {
+   "kanji": "姻",
+   "lesson": 22
+ },
+ {
+   "kanji": "咽",
+   "lesson": 22
+ },
+ {
+   "kanji": "園",
+   "lesson": 22
+ },
+ {
+   "kanji": "回",
+   "lesson": 22
+ },
+ {
+   "kanji": "壇",
+   "lesson": 22
+ },
+ {
+   "kanji": "店",
+   "lesson": 22
+ },
+ {
+   "kanji": "庫",
+   "lesson": 22
+ },
+ {
+   "kanji": "庭",
+   "lesson": 22
+ },
+ {
+   "kanji": "庁",
+   "lesson": 22
+ },
+ {
+   "kanji": "床",
+   "lesson": 22
+ },
+ {
+   "kanji": "麻",
+   "lesson": 22
+ },
+ {
+   "kanji": "磨",
+   "lesson": 22
+ },
+ {
+   "kanji": "心",
+   "lesson": 22
+ },
+ {
+   "kanji": "忘",
+   "lesson": 22
+ },
+ {
+   "kanji": "恣",
+   "lesson": 22
+ },
+ {
+   "kanji": "忍",
+   "lesson": 22
+ },
+ {
+   "kanji": "認",
+   "lesson": 22
+ },
+ {
+   "kanji": "忌",
+   "lesson": 22
+ },
+ {
+   "kanji": "志",
+   "lesson": 22
+ },
+ {
+   "kanji": "誌",
+   "lesson": 22
+ },
+ {
+   "kanji": "芯",
+   "lesson": 22
+ },
+ {
+   "kanji": "忠",
+   "lesson": 22
+ },
+ {
+   "kanji": "串",
+   "lesson": 22
+ },
+ {
+   "kanji": "患",
+   "lesson": 22
+ },
+ {
+   "kanji": "思",
+   "lesson": 22
+ },
+ {
+   "kanji": "恩",
+   "lesson": 22
+ },
+ {
+   "kanji": "応",
+   "lesson": 22
+ },
+ {
+   "kanji": "意",
+   "lesson": 22
+ },
+ {
+   "kanji": "臆",
+   "lesson": 22
+ },
+ {
+   "kanji": "想",
+   "lesson": 22
+ },
+ {
+   "kanji": "息",
+   "lesson": 22
+ },
+ {
+   "kanji": "憩",
+   "lesson": 22
+ },
+ {
+   "kanji": "恵",
+   "lesson": 22
+ },
+ {
+   "kanji": "恐",
+   "lesson": 22
+ },
+ {
+   "kanji": "惑",
+   "lesson": 22
+ },
+ {
+   "kanji": "感",
+   "lesson": 22
+ },
+ {
+   "kanji": "憂",
+   "lesson": 22
+ },
+ {
+   "kanji": "寡",
+   "lesson": 22
+ },
+ {
+   "kanji": "忙",
+   "lesson": 22
+ },
+ {
+   "kanji": "悦",
+   "lesson": 22
+ },
+ {
+   "kanji": "恒",
+   "lesson": 22
+ },
+ {
+   "kanji": "悼",
+   "lesson": 22
+ },
+ {
+   "kanji": "悟",
+   "lesson": 22
+ },
+ {
+   "kanji": "怖",
+   "lesson": 22
+ },
+ {
+   "kanji": "慌",
+   "lesson": 22
+ },
+ {
+   "kanji": "悔",
+   "lesson": 22
+ },
+ {
+   "kanji": "憎",
+   "lesson": 22
+ },
+ {
+   "kanji": "慣",
+   "lesson": 22
+ },
+ {
+   "kanji": "愉",
+   "lesson": 22
+ },
+ {
+   "kanji": "惰",
+   "lesson": 22
+ },
+ {
+   "kanji": "慎",
+   "lesson": 22
+ },
+ {
+   "kanji": "憾",
+   "lesson": 22
+ },
+ {
+   "kanji": "憶",
+   "lesson": 22
+ },
+ {
+   "kanji": "惧",
+   "lesson": 22
+ },
+ {
+   "kanji": "憧",
+   "lesson": 22
+ },
+ {
+   "kanji": "憬",
+   "lesson": 22
+ },
+ {
+   "kanji": "慕",
+   "lesson": 22
+ },
+ {
+   "kanji": "添",
+   "lesson": 22
+ },
+ {
+   "kanji": "必",
+   "lesson": 22
+ },
+ {
+   "kanji": "泌",
+   "lesson": 22
+ },
+ {
+   "kanji": "手",
+   "lesson": 23
+ },
+ {
+   "kanji": "看",
+   "lesson": 23
+ },
+ {
+   "kanji": "摩",
+   "lesson": 23
+ },
+ {
+   "kanji": "我",
+   "lesson": 23
+ },
+ {
+   "kanji": "義",
+   "lesson": 23
+ },
+ {
+   "kanji": "議",
+   "lesson": 23
+ },
+ {
+   "kanji": "犠",
+   "lesson": 23
+ },
+ {
+   "kanji": "抹",
+   "lesson": 23
+ },
+ {
+   "kanji": "拭",
+   "lesson": 23
+ },
+ {
+   "kanji": "拉",
+   "lesson": 23
+ },
+ {
+   "kanji": "抱",
+   "lesson": 23
+ },
+ {
+   "kanji": "搭",
+   "lesson": 23
+ },
+ {
+   "kanji": "抄",
+   "lesson": 23
+ },
+ {
+   "kanji": "抗",
+   "lesson": 23
+ },
+ {
+   "kanji": "批",
+   "lesson": 23
+ },
+ {
+   "kanji": "招",
+   "lesson": 23
+ },
+ {
+   "kanji": "拓",
+   "lesson": 23
+ },
+ {
+   "kanji": "拍",
+   "lesson": 23
+ },
+ {
+   "kanji": "打",
+   "lesson": 23
+ },
+ {
+   "kanji": "拘",
+   "lesson": 23
+ },
+ {
+   "kanji": "捨",
+   "lesson": 23
+ },
+ {
+   "kanji": "拐",
+   "lesson": 23
+ },
+ {
+   "kanji": "摘",
+   "lesson": 23
+ },
+ {
+   "kanji": "挑",
+   "lesson": 23
+ },
+ {
+   "kanji": "指",
+   "lesson": 23
+ },
+ {
+   "kanji": "持",
+   "lesson": 23
+ },
+ {
+   "kanji": "拶",
+   "lesson": 23
+ },
+ {
+   "kanji": "括",
+   "lesson": 23
+ },
+ {
+   "kanji": "揮",
+   "lesson": 23
+ },
+ {
+   "kanji": "推",
+   "lesson": 23
+ },
+ {
+   "kanji": "揚",
+   "lesson": 23
+ },
+ {
+   "kanji": "提",
+   "lesson": 23
+ },
+ {
+   "kanji": "損",
+   "lesson": 23
+ },
+ {
+   "kanji": "拾",
+   "lesson": 23
+ },
+ {
+   "kanji": "担",
+   "lesson": 23
+ },
+ {
+   "kanji": "拠",
+   "lesson": 23
+ },
+ {
+   "kanji": "描",
+   "lesson": 23
+ },
+ {
+   "kanji": "操",
+   "lesson": 23
+ },
+ {
+   "kanji": "接",
+   "lesson": 23
+ },
+ {
+   "kanji": "掲",
+   "lesson": 23
+ },
+ {
+   "kanji": "掛",
+   "lesson": 23
+ },
+ {
+   "kanji": "捗",
+   "lesson": 23
+ },
+ {
+   "kanji": "研",
+   "lesson": 23
+ },
+ {
+   "kanji": "戒",
+   "lesson": 23
+ },
+ {
+   "kanji": "弄",
+   "lesson": 23
+ },
+ {
+   "kanji": "械",
+   "lesson": 23
+ },
+ {
+   "kanji": "鼻",
+   "lesson": 23
+ },
+ {
+   "kanji": "刑",
+   "lesson": 23
+ },
+ {
+   "kanji": "型",
+   "lesson": 23
+ },
+ {
+   "kanji": "才",
+   "lesson": 23
+ },
+ {
+   "kanji": "財",
+   "lesson": 23
+ },
+ {
+   "kanji": "材",
+   "lesson": 23
+ },
+ {
+   "kanji": "存",
+   "lesson": 23
+ },
+ {
+   "kanji": "在",
+   "lesson": 23
+ },
+ {
+   "kanji": "乃",
+   "lesson": 23
+ },
+ {
+   "kanji": "携",
+   "lesson": 23
+ },
+ {
+   "kanji": "及",
+   "lesson": 23
+ },
+ {
+   "kanji": "吸",
+   "lesson": 23
+ },
+ {
+   "kanji": "扱",
+   "lesson": 23
+ },
+ {
+   "kanji": "丈",
+   "lesson": 23
+ },
+ {
+   "kanji": "史",
+   "lesson": 23
+ },
+ {
+   "kanji": "吏",
+   "lesson": 23
+ },
+ {
+   "kanji": "更",
+   "lesson": 23
+ },
+ {
+   "kanji": "硬",
+   "lesson": 23
+ },
+ {
+   "kanji": "梗",
+   "lesson": 23
+ },
+ {
+   "kanji": "又",
+   "lesson": 23
+ },
+ {
+   "kanji": "双",
+   "lesson": 23
+ },
+ {
+   "kanji": "桑",
+   "lesson": 23
+ },
+ {
+   "kanji": "隻",
+   "lesson": 23
+ },
+ {
+   "kanji": "護",
+   "lesson": 23
+ },
+ {
+   "kanji": "獲",
+   "lesson": 23
+ },
+ {
+   "kanji": "奴",
+   "lesson": 23
+ },
+ {
+   "kanji": "怒",
+   "lesson": 23
+ },
+ {
+   "kanji": "友",
+   "lesson": 23
+ },
+ {
+   "kanji": "抜",
+   "lesson": 23
+ },
+ {
+   "kanji": "投",
+   "lesson": 23
+ },
+ {
+   "kanji": "没",
+   "lesson": 23
+ },
+ {
+   "kanji": "股",
+   "lesson": 23
+ },
+ {
+   "kanji": "設",
+   "lesson": 23
+ },
+ {
+   "kanji": "撃",
+   "lesson": 23
+ },
+ {
+   "kanji": "殻",
+   "lesson": 23
+ },
+ {
+   "kanji": "支",
+   "lesson": 23
+ },
+ {
+   "kanji": "技",
+   "lesson": 23
+ },
+ {
+   "kanji": "枝",
+   "lesson": 23
+ },
+ {
+   "kanji": "肢",
+   "lesson": 23
+ },
+ {
+   "kanji": "茎",
+   "lesson": 23
+ },
+ {
+   "kanji": "怪",
+   "lesson": 23
+ },
+ {
+   "kanji": "軽",
+   "lesson": 23
+ },
+ {
+   "kanji": "叔",
+   "lesson": 23
+ },
+ {
+   "kanji": "督",
+   "lesson": 23
+ },
+ {
+   "kanji": "寂",
+   "lesson": 23
+ },
+ {
+   "kanji": "淑",
+   "lesson": 23
+ },
+ {
+   "kanji": "反",
+   "lesson": 23
+ },
+ {
+   "kanji": "坂",
+   "lesson": 23
+ },
+ {
+   "kanji": "板",
+   "lesson": 23
+ },
+ {
+   "kanji": "返",
+   "lesson": 23
+ },
+ {
+   "kanji": "販",
+   "lesson": 23
+ },
+ {
+   "kanji": "爪",
+   "lesson": 23
+ },
+ {
+   "kanji": "妥",
+   "lesson": 23
+ },
+ {
+   "kanji": "乳",
+   "lesson": 23
+ },
+ {
+   "kanji": "浮",
+   "lesson": 23
+ },
+ {
+   "kanji": "淫",
+   "lesson": 23
+ },
+ {
+   "kanji": "将",
+   "lesson": 23
+ },
+ {
+   "kanji": "奨",
+   "lesson": 23
+ },
+ {
+   "kanji": "采",
+   "lesson": 23
+ },
+ {
+   "kanji": "採",
+   "lesson": 23
+ },
+ {
+   "kanji": "菜",
+   "lesson": 23
+ },
+ {
+   "kanji": "受",
+   "lesson": 23
+ },
+ {
+   "kanji": "授",
+   "lesson": 23
+ },
+ {
+   "kanji": "愛",
+   "lesson": 23
+ },
+ {
+   "kanji": "曖",
+   "lesson": 23
+ },
+ {
+   "kanji": "払",
+   "lesson": 23
+ },
+ {
+   "kanji": "広",
+   "lesson": 23
+ },
+ {
+   "kanji": "勾",
+   "lesson": 23
+ },
+ {
+   "kanji": "拡",
+   "lesson": 23
+ },
+ {
+   "kanji": "鉱",
+   "lesson": 23
+ },
+ {
+   "kanji": "弁",
+   "lesson": 23
+ },
+ {
+   "kanji": "雄",
+   "lesson": 23
+ },
+ {
+   "kanji": "台",
+   "lesson": 23
+ },
+ {
+   "kanji": "怠",
+   "lesson": 23
+ },
+ {
+   "kanji": "治",
+   "lesson": 23
+ },
+ {
+   "kanji": "冶",
+   "lesson": 23
+ },
+ {
+   "kanji": "始",
+   "lesson": 23
+ },
+ {
+   "kanji": "胎",
+   "lesson": 23
+ },
+ {
+   "kanji": "窓",
+   "lesson": 23
+ },
+ {
+   "kanji": "去",
+   "lesson": 23
+ },
+ {
+   "kanji": "法",
+   "lesson": 23
+ },
+ {
+   "kanji": "会",
+   "lesson": 23
+ },
+ {
+   "kanji": "至",
+   "lesson": 23
+ },
+ {
+   "kanji": "室",
+   "lesson": 23
+ },
+ {
+   "kanji": "到",
+   "lesson": 23
+ },
+ {
+   "kanji": "致",
+   "lesson": 23
+ },
+ {
+   "kanji": "互",
+   "lesson": 23
+ },
+ {
+   "kanji": "棄",
+   "lesson": 23
+ },
+ {
+   "kanji": "育",
+   "lesson": 23
+ },
+ {
+   "kanji": "撤",
+   "lesson": 23
+ },
+ {
+   "kanji": "充",
+   "lesson": 23
+ },
+ {
+   "kanji": "銃",
+   "lesson": 23
+ },
+ {
+   "kanji": "硫",
+   "lesson": 23
+ },
+ {
+   "kanji": "流",
+   "lesson": 23
+ },
+ {
+   "kanji": "允",
+   "lesson": 23
+ },
+ {
+   "kanji": "唆",
+   "lesson": 23
+ },
+ {
+   "kanji": "出",
+   "lesson": 24
+ },
+ {
+   "kanji": "山",
+   "lesson": 24
+ },
+ {
+   "kanji": "拙",
+   "lesson": 24
+ },
+ {
+   "kanji": "岩",
+   "lesson": 24
+ },
+ {
+   "kanji": "炭",
+   "lesson": 24
+ },
+ {
+   "kanji": "岐",
+   "lesson": 24
+ },
+ {
+   "kanji": "峠",
+   "lesson": 24
+ },
+ {
+   "kanji": "崩",
+   "lesson": 24
+ },
+ {
+   "kanji": "密",
+   "lesson": 24
+ },
+ {
+   "kanji": "蜜",
+   "lesson": 24
+ },
+ {
+   "kanji": "嵐",
+   "lesson": 24
+ },
+ {
+   "kanji": "崎",
+   "lesson": 24
+ },
+ {
+   "kanji": "崖",
+   "lesson": 24
+ },
+ {
+   "kanji": "入",
+   "lesson": 24
+ },
+ {
+   "kanji": "込",
+   "lesson": 24
+ },
+ {
+   "kanji": "分",
+   "lesson": 24
+ },
+ {
+   "kanji": "貧",
+   "lesson": 24
+ },
+ {
+   "kanji": "頒",
+   "lesson": 24
+ },
+ {
+   "kanji": "公",
+   "lesson": 24
+ },
+ {
+   "kanji": "松",
+   "lesson": 24
+ },
+ {
+   "kanji": "翁",
+   "lesson": 24
+ },
+ {
+   "kanji": "訟",
+   "lesson": 24
+ },
+ {
+   "kanji": "谷",
+   "lesson": 24
+ },
+ {
+   "kanji": "浴",
+   "lesson": 24
+ },
+ {
+   "kanji": "容",
+   "lesson": 24
+ },
+ {
+   "kanji": "溶",
+   "lesson": 24
+ },
+ {
+   "kanji": "欲",
+   "lesson": 24
+ },
+ {
+   "kanji": "裕",
+   "lesson": 24
+ },
+ {
+   "kanji": "鉛",
+   "lesson": 24
+ },
+ {
+   "kanji": "沿",
+   "lesson": 24
+ },
+ {
+   "kanji": "賞",
+   "lesson": 25
+ },
+ {
+   "kanji": "党",
+   "lesson": 25
+ },
+ {
+   "kanji": "堂",
+   "lesson": 25
+ },
+ {
+   "kanji": "常",
+   "lesson": 25
+ },
+ {
+   "kanji": "裳",
+   "lesson": 25
+ },
+ {
+   "kanji": "掌",
+   "lesson": 25
+ },
+ {
+   "kanji": "皮",
+   "lesson": 25
+ },
+ {
+   "kanji": "波",
+   "lesson": 25
+ },
+ {
+   "kanji": "婆",
+   "lesson": 25
+ },
+ {
+   "kanji": "披",
+   "lesson": 25
+ },
+ {
+   "kanji": "破",
+   "lesson": 25
+ },
+ {
+   "kanji": "被",
+   "lesson": 25
+ },
+ {
+   "kanji": "残",
+   "lesson": 25
+ },
+ {
+   "kanji": "殉",
+   "lesson": 25
+ },
+ {
+   "kanji": "殊",
+   "lesson": 25
+ },
+ {
+   "kanji": "殖",
+   "lesson": 25
+ },
+ {
+   "kanji": "列",
+   "lesson": 25
+ },
+ {
+   "kanji": "裂",
+   "lesson": 25
+ },
+ {
+   "kanji": "烈",
+   "lesson": 25
+ },
+ {
+   "kanji": "死",
+   "lesson": 25
+ },
+ {
+   "kanji": "葬",
+   "lesson": 25
+ },
+ {
+   "kanji": "瞬",
+   "lesson": 25
+ },
+ {
+   "kanji": "耳",
+   "lesson": 25
+ },
+ {
+   "kanji": "取",
+   "lesson": 25
+ },
+ {
+   "kanji": "趣",
+   "lesson": 25
+ },
+ {
+   "kanji": "最",
+   "lesson": 25
+ },
+ {
+   "kanji": "撮",
+   "lesson": 25
+ },
+ {
+   "kanji": "恥",
+   "lesson": 25
+ },
+ {
+   "kanji": "職",
+   "lesson": 25
+ },
+ {
+   "kanji": "聖",
+   "lesson": 25
+ },
+ {
+   "kanji": "敢",
+   "lesson": 25
+ },
+ {
+   "kanji": "聴",
+   "lesson": 25
+ },
+ {
+   "kanji": "懐",
+   "lesson": 25
+ },
+ {
+   "kanji": "慢",
+   "lesson": 25
+ },
+ {
+   "kanji": "漫",
+   "lesson": 25
+ },
+ {
+   "kanji": "買",
+   "lesson": 25
+ },
+ {
+   "kanji": "置",
+   "lesson": 25
+ },
+ {
+   "kanji": "罰",
+   "lesson": 25
+ },
+ {
+   "kanji": "寧",
+   "lesson": 25
+ },
+ {
+   "kanji": "濁",
+   "lesson": 25
+ },
+ {
+   "kanji": "環",
+   "lesson": 25
+ },
+ {
+   "kanji": "還",
+   "lesson": 25
+ },
+ {
+   "kanji": "夫",
+   "lesson": 25
+ },
+ {
+   "kanji": "扶",
+   "lesson": 25
+ },
+ {
+   "kanji": "渓",
+   "lesson": 25
+ },
+ {
+   "kanji": "規",
+   "lesson": 25
+ },
+ {
+   "kanji": "替",
+   "lesson": 25
+ },
+ {
+   "kanji": "賛",
+   "lesson": 25
+ },
+ {
+   "kanji": "潜",
+   "lesson": 25
+ },
+ {
+   "kanji": "失",
+   "lesson": 25
+ },
+ {
+   "kanji": "鉄",
+   "lesson": 25
+ },
+ {
+   "kanji": "迭",
+   "lesson": 25
+ },
+ {
+   "kanji": "臣",
+   "lesson": 25
+ },
+ {
+   "kanji": "姫",
+   "lesson": 25
+ },
+ {
+   "kanji": "蔵",
+   "lesson": 25
+ },
+ {
+   "kanji": "臓",
+   "lesson": 25
+ },
+ {
+   "kanji": "賢",
+   "lesson": 25
+ },
+ {
+   "kanji": "腎",
+   "lesson": 25
+ },
+ {
+   "kanji": "堅",
+   "lesson": 25
+ },
+ {
+   "kanji": "臨",
+   "lesson": 25
+ },
+ {
+   "kanji": "覧",
+   "lesson": 25
+ },
+ {
+   "kanji": "巨",
+   "lesson": 25
+ },
+ {
+   "kanji": "拒",
+   "lesson": 25
+ },
+ {
+   "kanji": "力",
+   "lesson": 25
+ },
+ {
+   "kanji": "男",
+   "lesson": 25
+ },
+ {
+   "kanji": "労",
+   "lesson": 25
+ },
+ {
+   "kanji": "募",
+   "lesson": 25
+ },
+ {
+   "kanji": "劣",
+   "lesson": 25
+ },
+ {
+   "kanji": "功",
+   "lesson": 25
+ },
+ {
+   "kanji": "勧",
+   "lesson": 25
+ },
+ {
+   "kanji": "努",
+   "lesson": 25
+ },
+ {
+   "kanji": "勃",
+   "lesson": 25
+ },
+ {
+   "kanji": "励",
+   "lesson": 25
+ },
+ {
+   "kanji": "加",
+   "lesson": 25
+ },
+ {
+   "kanji": "賀",
+   "lesson": 25
+ },
+ {
+   "kanji": "架",
+   "lesson": 25
+ },
+ {
+   "kanji": "脇",
+   "lesson": 25
+ },
+ {
+   "kanji": "脅",
+   "lesson": 25
+ },
+ {
+   "kanji": "協",
+   "lesson": 25
+ },
+ {
+   "kanji": "行",
+   "lesson": 25
+ },
+ {
+   "kanji": "律",
+   "lesson": 25
+ },
+ {
+   "kanji": "復",
+   "lesson": 25
+ },
+ {
+   "kanji": "得",
+   "lesson": 25
+ },
+ {
+   "kanji": "従",
+   "lesson": 25
+ },
+ {
+   "kanji": "徒",
+   "lesson": 25
+ },
+ {
+   "kanji": "待",
+   "lesson": 25
+ },
+ {
+   "kanji": "往",
+   "lesson": 25
+ },
+ {
+   "kanji": "征",
+   "lesson": 25
+ },
+ {
+   "kanji": "径",
+   "lesson": 25
+ },
+ {
+   "kanji": "彼",
+   "lesson": 25
+ },
+ {
+   "kanji": "役",
+   "lesson": 25
+ },
+ {
+   "kanji": "徳",
+   "lesson": 25
+ },
+ {
+   "kanji": "徹",
+   "lesson": 25
+ },
+ {
+   "kanji": "徴",
+   "lesson": 25
+ },
+ {
+   "kanji": "懲",
+   "lesson": 25
+ },
+ {
+   "kanji": "微",
+   "lesson": 25
+ },
+ {
+   "kanji": "街",
+   "lesson": 25
+ },
+ {
+   "kanji": "桁",
+   "lesson": 25
+ },
+ {
+   "kanji": "衡",
+   "lesson": 25
+ },
+ {
+   "kanji": "稿",
+   "lesson": 26
+ },
+ {
+   "kanji": "稼",
+   "lesson": 26
+ },
+ {
+   "kanji": "程",
+   "lesson": 26
+ },
+ {
+   "kanji": "税",
+   "lesson": 26
+ },
+ {
+   "kanji": "稚",
+   "lesson": 26
+ },
+ {
+   "kanji": "和",
+   "lesson": 26
+ },
+ {
+   "kanji": "移",
+   "lesson": 26
+ },
+ {
+   "kanji": "秒",
+   "lesson": 26
+ },
+ {
+   "kanji": "秋",
+   "lesson": 26
+ },
+ {
+   "kanji": "愁",
+   "lesson": 26
+ },
+ {
+   "kanji": "私",
+   "lesson": 26
+ },
+ {
+   "kanji": "秩",
+   "lesson": 26
+ },
+ {
+   "kanji": "秘",
+   "lesson": 26
+ },
+ {
+   "kanji": "称",
+   "lesson": 26
+ },
+ {
+   "kanji": "利",
+   "lesson": 26
+ },
+ {
+   "kanji": "梨",
+   "lesson": 26
+ },
+ {
+   "kanji": "穫",
+   "lesson": 26
+ },
+ {
+   "kanji": "穂",
+   "lesson": 26
+ },
+ {
+   "kanji": "稲",
+   "lesson": 26
+ },
+ {
+   "kanji": "香",
+   "lesson": 26
+ },
+ {
+   "kanji": "季",
+   "lesson": 26
+ },
+ {
+   "kanji": "委",
+   "lesson": 26
+ },
+ {
+   "kanji": "秀",
+   "lesson": 26
+ },
+ {
+   "kanji": "透",
+   "lesson": 26
+ },
+ {
+   "kanji": "誘",
+   "lesson": 26
+ },
+ {
+   "kanji": "稽",
+   "lesson": 26
+ },
+ {
+   "kanji": "穀",
+   "lesson": 26
+ },
+ {
+   "kanji": "菌",
+   "lesson": 26
+ },
+ {
+   "kanji": "萎",
+   "lesson": 26
+ },
+ {
+   "kanji": "米",
+   "lesson": 26
+ },
+ {
+   "kanji": "粉",
+   "lesson": 26
+ },
+ {
+   "kanji": "粘",
+   "lesson": 26
+ },
+ {
+   "kanji": "粒",
+   "lesson": 26
+ },
+ {
+   "kanji": "粧",
+   "lesson": 26
+ },
+ {
+   "kanji": "迷",
+   "lesson": 26
+ },
+ {
+   "kanji": "粋",
+   "lesson": 26
+ },
+ {
+   "kanji": "謎",
+   "lesson": 26
+ },
+ {
+   "kanji": "糧",
+   "lesson": 26
+ },
+ {
+   "kanji": "菊",
+   "lesson": 26
+ },
+ {
+   "kanji": "奥",
+   "lesson": 26
+ },
+ {
+   "kanji": "数",
+   "lesson": 26
+ },
+ {
+   "kanji": "楼",
+   "lesson": 26
+ },
+ {
+   "kanji": "類",
+   "lesson": 26
+ },
+ {
+   "kanji": "漆",
+   "lesson": 26
+ },
+ {
+   "kanji": "膝",
+   "lesson": 26
+ },
+ {
+   "kanji": "様",
+   "lesson": 26
+ },
+ {
+   "kanji": "求",
+   "lesson": 26
+ },
+ {
+   "kanji": "球",
+   "lesson": 26
+ },
+ {
+   "kanji": "救",
+   "lesson": 26
+ },
+ {
+   "kanji": "竹",
+   "lesson": 26
+ },
+ {
+   "kanji": "笑",
+   "lesson": 26
+ },
+ {
+   "kanji": "笠",
+   "lesson": 26
+ },
+ {
+   "kanji": "笹",
+   "lesson": 26
+ },
+ {
+   "kanji": "箋",
+   "lesson": 26
+ },
+ {
+   "kanji": "筋",
+   "lesson": 26
+ },
+ {
+   "kanji": "箱",
+   "lesson": 26
+ },
+ {
+   "kanji": "筆",
+   "lesson": 26
+ },
+ {
+   "kanji": "筒",
+   "lesson": 26
+ },
+ {
+   "kanji": "等",
+   "lesson": 26
+ },
+ {
+   "kanji": "算",
+   "lesson": 26
+ },
+ {
+   "kanji": "答",
+   "lesson": 26
+ },
+ {
+   "kanji": "策",
+   "lesson": 26
+ },
+ {
+   "kanji": "簿",
+   "lesson": 26
+ },
+ {
+   "kanji": "築",
+   "lesson": 26
+ },
+ {
+   "kanji": "篭",
+   "lesson": 26
+ },
+ {
+   "kanji": "人",
+   "lesson": 27
+ },
+ {
+   "kanji": "佐",
+   "lesson": 27
+ },
+ {
+   "kanji": "侶",
+   "lesson": 27
+ },
+ {
+   "kanji": "但",
+   "lesson": 27
+ },
+ {
+   "kanji": "住",
+   "lesson": 27
+ },
+ {
+   "kanji": "位",
+   "lesson": 27
+ },
+ {
+   "kanji": "仲",
+   "lesson": 27
+ },
+ {
+   "kanji": "体",
+   "lesson": 27
+ },
+ {
+   "kanji": "悠",
+   "lesson": 27
+ },
+ {
+   "kanji": "件",
+   "lesson": 27
+ },
+ {
+   "kanji": "仕",
+   "lesson": 27
+ },
+ {
+   "kanji": "他",
+   "lesson": 27
+ },
+ {
+   "kanji": "伏",
+   "lesson": 27
+ },
+ {
+   "kanji": "伝",
+   "lesson": 27
+ },
+ {
+   "kanji": "仏",
+   "lesson": 27
+ },
+ {
+   "kanji": "休",
+   "lesson": 27
+ },
+ {
+   "kanji": "仮",
+   "lesson": 27
+ },
+ {
+   "kanji": "伎",
+   "lesson": 27
+ },
+ {
+   "kanji": "伯",
+   "lesson": 27
+ },
+ {
+   "kanji": "俗",
+   "lesson": 27
+ },
+ {
+   "kanji": "信",
+   "lesson": 27
+ },
+ {
+   "kanji": "佳",
+   "lesson": 27
+ },
+ {
+   "kanji": "依",
+   "lesson": 27
+ },
+ {
+   "kanji": "例",
+   "lesson": 27
+ },
+ {
+   "kanji": "個",
+   "lesson": 27
+ },
+ {
+   "kanji": "健",
+   "lesson": 27
+ },
+ {
+   "kanji": "側",
+   "lesson": 27
+ },
+ {
+   "kanji": "侍",
+   "lesson": 27
+ },
+ {
+   "kanji": "停",
+   "lesson": 27
+ },
+ {
+   "kanji": "値",
+   "lesson": 27
+ },
+ {
+   "kanji": "倣",
+   "lesson": 27
+ },
+ {
+   "kanji": "傲",
+   "lesson": 27
+ },
+ {
+   "kanji": "倒",
+   "lesson": 27
+ },
+ {
+   "kanji": "偵",
+   "lesson": 27
+ },
+ {
+   "kanji": "僧",
+   "lesson": 27
+ },
+ {
+   "kanji": "億",
+   "lesson": 27
+ },
+ {
+   "kanji": "儀",
+   "lesson": 27
+ },
+ {
+   "kanji": "償",
+   "lesson": 27
+ },
+ {
+   "kanji": "仙",
+   "lesson": 27
+ },
+ {
+   "kanji": "催",
+   "lesson": 27
+ },
+ {
+   "kanji": "仁",
+   "lesson": 27
+ },
+ {
+   "kanji": "侮",
+   "lesson": 27
+ },
+ {
+   "kanji": "使",
+   "lesson": 27
+ },
+ {
+   "kanji": "便",
+   "lesson": 27
+ },
+ {
+   "kanji": "倍",
+   "lesson": 27
+ },
+ {
+   "kanji": "優",
+   "lesson": 27
+ },
+ {
+   "kanji": "伐",
+   "lesson": 27
+ },
+ {
+   "kanji": "宿",
+   "lesson": 27
+ },
+ {
+   "kanji": "傷",
+   "lesson": 27
+ },
+ {
+   "kanji": "保",
+   "lesson": 27
+ },
+ {
+   "kanji": "褒",
+   "lesson": 27
+ },
+ {
+   "kanji": "傑",
+   "lesson": 27
+ },
+ {
+   "kanji": "付",
+   "lesson": 27
+ },
+ {
+   "kanji": "符",
+   "lesson": 27
+ },
+ {
+   "kanji": "府",
+   "lesson": 27
+ },
+ {
+   "kanji": "任",
+   "lesson": 27
+ },
+ {
+   "kanji": "賃",
+   "lesson": 27
+ },
+ {
+   "kanji": "代",
+   "lesson": 27
+ },
+ {
+   "kanji": "袋",
+   "lesson": 27
+ },
+ {
+   "kanji": "貸",
+   "lesson": 27
+ },
+ {
+   "kanji": "化",
+   "lesson": 27
+ },
+ {
+   "kanji": "花",
+   "lesson": 27
+ },
+ {
+   "kanji": "貨",
+   "lesson": 27
+ },
+ {
+   "kanji": "傾",
+   "lesson": 27
+ },
+ {
+   "kanji": "何",
+   "lesson": 27
+ },
+ {
+   "kanji": "荷",
+   "lesson": 27
+ },
+ {
+   "kanji": "俊",
+   "lesson": 27
+ },
+ {
+   "kanji": "傍",
+   "lesson": 27
+ },
+ {
+   "kanji": "俺",
+   "lesson": 27
+ },
+ {
+   "kanji": "久",
+   "lesson": 27
+ },
+ {
+   "kanji": "畝",
+   "lesson": 27
+ },
+ {
+   "kanji": "囚",
+   "lesson": 27
+ },
+ {
+   "kanji": "内",
+   "lesson": 27
+ },
+ {
+   "kanji": "丙",
+   "lesson": 27
+ },
+ {
+   "kanji": "柄",
+   "lesson": 27
+ },
+ {
+   "kanji": "肉",
+   "lesson": 27
+ },
+ {
+   "kanji": "腐",
+   "lesson": 27
+ },
+ {
+   "kanji": "座",
+   "lesson": 27
+ },
+ {
+   "kanji": "挫",
+   "lesson": 27
+ },
+ {
+   "kanji": "卒",
+   "lesson": 27
+ },
+ {
+   "kanji": "傘",
+   "lesson": 27
+ },
+ {
+   "kanji": "匁",
+   "lesson": 28
+ },
+ {
+   "kanji": "以",
+   "lesson": 28
+ },
+ {
+   "kanji": "似",
+   "lesson": 28
+ },
+ {
+   "kanji": "併",
+   "lesson": 28
+ },
+ {
+   "kanji": "瓦",
+   "lesson": 28
+ },
+ {
+   "kanji": "瓶",
+   "lesson": 28
+ },
+ {
+   "kanji": "宮",
+   "lesson": 28
+ },
+ {
+   "kanji": "営",
+   "lesson": 28
+ },
+ {
+   "kanji": "善",
+   "lesson": 28
+ },
+ {
+   "kanji": "膳",
+   "lesson": 28
+ },
+ {
+   "kanji": "年",
+   "lesson": 28
+ },
+ {
+   "kanji": "夜",
+   "lesson": 28
+ },
+ {
+   "kanji": "液",
+   "lesson": 28
+ },
+ {
+   "kanji": "塚",
+   "lesson": 28
+ },
+ {
+   "kanji": "幣",
+   "lesson": 28
+ },
+ {
+   "kanji": "蔽",
+   "lesson": 28
+ },
+ {
+   "kanji": "弊",
+   "lesson": 28
+ },
+ {
+   "kanji": "喚",
+   "lesson": 28
+ },
+ {
+   "kanji": "換",
+   "lesson": 28
+ },
+ {
+   "kanji": "融",
+   "lesson": 28
+ },
+ {
+   "kanji": "施",
+   "lesson": 29
+ },
+ {
+   "kanji": "旋",
+   "lesson": 29
+ },
+ {
+   "kanji": "遊",
+   "lesson": 29
+ },
+ {
+   "kanji": "旅",
+   "lesson": 29
+ },
+ {
+   "kanji": "勿",
+   "lesson": 29
+ },
+ {
+   "kanji": "物",
+   "lesson": 29
+ },
+ {
+   "kanji": "易",
+   "lesson": 29
+ },
+ {
+   "kanji": "賜",
+   "lesson": 29
+ },
+ {
+   "kanji": "尿",
+   "lesson": 29
+ },
+ {
+   "kanji": "尼",
+   "lesson": 29
+ },
+ {
+   "kanji": "尻",
+   "lesson": 29
+ },
+ {
+   "kanji": "泥",
+   "lesson": 29
+ },
+ {
+   "kanji": "塀",
+   "lesson": 29
+ },
+ {
+   "kanji": "履",
+   "lesson": 29
+ },
+ {
+   "kanji": "屋",
+   "lesson": 29
+ },
+ {
+   "kanji": "握",
+   "lesson": 29
+ },
+ {
+   "kanji": "屈",
+   "lesson": 29
+ },
+ {
+   "kanji": "掘",
+   "lesson": 29
+ },
+ {
+   "kanji": "堀",
+   "lesson": 29
+ },
+ {
+   "kanji": "居",
+   "lesson": 29
+ },
+ {
+   "kanji": "据",
+   "lesson": 29
+ },
+ {
+   "kanji": "裾",
+   "lesson": 29
+ },
+ {
+   "kanji": "層",
+   "lesson": 29
+ },
+ {
+   "kanji": "局",
+   "lesson": 29
+ },
+ {
+   "kanji": "遅",
+   "lesson": 29
+ },
+ {
+   "kanji": "漏",
+   "lesson": 29
+ },
+ {
+   "kanji": "刷",
+   "lesson": 29
+ },
+ {
+   "kanji": "尺",
+   "lesson": 29
+ },
+ {
+   "kanji": "尽",
+   "lesson": 29
+ },
+ {
+   "kanji": "沢",
+   "lesson": 29
+ },
+ {
+   "kanji": "訳",
+   "lesson": 29
+ },
+ {
+   "kanji": "択",
+   "lesson": 29
+ },
+ {
+   "kanji": "昼",
+   "lesson": 29
+ },
+ {
+   "kanji": "戸",
+   "lesson": 29
+ },
+ {
+   "kanji": "肩",
+   "lesson": 29
+ },
+ {
+   "kanji": "房",
+   "lesson": 29
+ },
+ {
+   "kanji": "扇",
+   "lesson": 29
+ },
+ {
+   "kanji": "炉",
+   "lesson": 29
+ },
+ {
+   "kanji": "戻",
+   "lesson": 29
+ },
+ {
+   "kanji": "涙",
+   "lesson": 29
+ },
+ {
+   "kanji": "雇",
+   "lesson": 29
+ },
+ {
+   "kanji": "顧",
+   "lesson": 29
+ },
+ {
+   "kanji": "啓",
+   "lesson": 29
+ },
+ {
+   "kanji": "示",
+   "lesson": 30
+ },
+ {
+   "kanji": "礼",
+   "lesson": 30
+ },
+ {
+   "kanji": "祥",
+   "lesson": 30
+ },
+ {
+   "kanji": "祝",
+   "lesson": 30
+ },
+ {
+   "kanji": "福",
+   "lesson": 30
+ },
+ {
+   "kanji": "祉",
+   "lesson": 30
+ },
+ {
+   "kanji": "社",
+   "lesson": 30
+ },
+ {
+   "kanji": "視",
+   "lesson": 30
+ },
+ {
+   "kanji": "奈",
+   "lesson": 30
+ },
+ {
+   "kanji": "尉",
+   "lesson": 30
+ },
+ {
+   "kanji": "慰",
+   "lesson": 30
+ },
+ {
+   "kanji": "款",
+   "lesson": 30
+ },
+ {
+   "kanji": "禁",
+   "lesson": 30
+ },
+ {
+   "kanji": "襟",
+   "lesson": 30
+ },
+ {
+   "kanji": "宗",
+   "lesson": 30
+ },
+ {
+   "kanji": "崇",
+   "lesson": 30
+ },
+ {
+   "kanji": "祭",
+   "lesson": 30
+ },
+ {
+   "kanji": "察",
+   "lesson": 30
+ },
+ {
+   "kanji": "擦",
+   "lesson": 30
+ },
+ {
+   "kanji": "由",
+   "lesson": 30
+ },
+ {
+   "kanji": "抽",
+   "lesson": 30
+ },
+ {
+   "kanji": "油",
+   "lesson": 30
+ },
+ {
+   "kanji": "袖",
+   "lesson": 30
+ },
+ {
+   "kanji": "宙",
+   "lesson": 30
+ },
+ {
+   "kanji": "届",
+   "lesson": 30
+ },
+ {
+   "kanji": "笛",
+   "lesson": 30
+ },
+ {
+   "kanji": "軸",
+   "lesson": 30
+ },
+ {
+   "kanji": "甲",
+   "lesson": 30
+ },
+ {
+   "kanji": "押",
+   "lesson": 30
+ },
+ {
+   "kanji": "岬",
+   "lesson": 30
+ },
+ {
+   "kanji": "挿",
+   "lesson": 30
+ },
+ {
+   "kanji": "申",
+   "lesson": 30
+ },
+ {
+   "kanji": "伸",
+   "lesson": 30
+ },
+ {
+   "kanji": "神",
+   "lesson": 30
+ },
+ {
+   "kanji": "捜",
+   "lesson": 30
+ },
+ {
+   "kanji": "果",
+   "lesson": 30
+ },
+ {
+   "kanji": "菓",
+   "lesson": 30
+ },
+ {
+   "kanji": "課",
+   "lesson": 30
+ },
+ {
+   "kanji": "裸",
+   "lesson": 30
+ },
+ {
+   "kanji": "斤",
+   "lesson": 31
+ },
+ {
+   "kanji": "析",
+   "lesson": 31
+ },
+ {
+   "kanji": "所",
+   "lesson": 31
+ },
+ {
+   "kanji": "祈",
+   "lesson": 31
+ },
+ {
+   "kanji": "近",
+   "lesson": 31
+ },
+ {
+   "kanji": "折",
+   "lesson": 31
+ },
+ {
+   "kanji": "哲",
+   "lesson": 31
+ },
+ {
+   "kanji": "逝",
+   "lesson": 31
+ },
+ {
+   "kanji": "誓",
+   "lesson": 31
+ },
+ {
+   "kanji": "斬",
+   "lesson": 31
+ },
+ {
+   "kanji": "暫",
+   "lesson": 31
+ },
+ {
+   "kanji": "漸",
+   "lesson": 31
+ },
+ {
+   "kanji": "断",
+   "lesson": 31
+ },
+ {
+   "kanji": "質",
+   "lesson": 31
+ },
+ {
+   "kanji": "斥",
+   "lesson": 31
+ },
+ {
+   "kanji": "訴",
+   "lesson": 31
+ },
+ {
+   "kanji": "昨",
+   "lesson": 31
+ },
+ {
+   "kanji": "詐",
+   "lesson": 31
+ },
+ {
+   "kanji": "作",
+   "lesson": 31
+ },
+ {
+   "kanji": "雪",
+   "lesson": 31
+ },
+ {
+   "kanji": "録",
+   "lesson": 31
+ },
+ {
+   "kanji": "剥",
+   "lesson": 31
+ },
+ {
+   "kanji": "尋",
+   "lesson": 31
+ },
+ {
+   "kanji": "急",
+   "lesson": 31
+ },
+ {
+   "kanji": "穏",
+   "lesson": 31
+ },
+ {
+   "kanji": "侵",
+   "lesson": 31
+ },
+ {
+   "kanji": "浸",
+   "lesson": 31
+ },
+ {
+   "kanji": "寝",
+   "lesson": 31
+ },
+ {
+   "kanji": "婦",
+   "lesson": 31
+ },
+ {
+   "kanji": "掃",
+   "lesson": 31
+ },
+ {
+   "kanji": "当",
+   "lesson": 31
+ },
+ {
+   "kanji": "彙",
+   "lesson": 31
+ },
+ {
+   "kanji": "争",
+   "lesson": 31
+ },
+ {
+   "kanji": "浄",
+   "lesson": 31
+ },
+ {
+   "kanji": "事",
+   "lesson": 31
+ },
+ {
+   "kanji": "唐",
+   "lesson": 31
+ },
+ {
+   "kanji": "糖",
+   "lesson": 31
+ },
+ {
+   "kanji": "康",
+   "lesson": 31
+ },
+ {
+   "kanji": "逮",
+   "lesson": 31
+ },
+ {
+   "kanji": "伊",
+   "lesson": 31
+ },
+ {
+   "kanji": "君",
+   "lesson": 31
+ },
+ {
+   "kanji": "群",
+   "lesson": 31
+ },
+ {
+   "kanji": "耐",
+   "lesson": 31
+ },
+ {
+   "kanji": "需",
+   "lesson": 31
+ },
+ {
+   "kanji": "儒",
+   "lesson": 31
+ },
+ {
+   "kanji": "端",
+   "lesson": 31
+ },
+ {
+   "kanji": "両",
+   "lesson": 31
+ },
+ {
+   "kanji": "満",
+   "lesson": 31
+ },
+ {
+   "kanji": "画",
+   "lesson": 31
+ },
+ {
+   "kanji": "歯",
+   "lesson": 31
+ },
+ {
+   "kanji": "曲",
+   "lesson": 31
+ },
+ {
+   "kanji": "曹",
+   "lesson": 31
+ },
+ {
+   "kanji": "遭",
+   "lesson": 31
+ },
+ {
+   "kanji": "漕",
+   "lesson": 31
+ },
+ {
+   "kanji": "槽",
+   "lesson": 31
+ },
+ {
+   "kanji": "斗",
+   "lesson": 31
+ },
+ {
+   "kanji": "料",
+   "lesson": 31
+ },
+ {
+   "kanji": "科",
+   "lesson": 31
+ },
+ {
+   "kanji": "図",
+   "lesson": 31
+ },
+ {
+   "kanji": "用",
+   "lesson": 31
+ },
+ {
+   "kanji": "庸",
+   "lesson": 31
+ },
+ {
+   "kanji": "備",
+   "lesson": 31
+ },
+ {
+   "kanji": "昔",
+   "lesson": 32
+ },
+ {
+   "kanji": "錯",
+   "lesson": 32
+ },
+ {
+   "kanji": "借",
+   "lesson": 32
+ },
+ {
+   "kanji": "惜",
+   "lesson": 32
+ },
+ {
+   "kanji": "措",
+   "lesson": 32
+ },
+ {
+   "kanji": "散",
+   "lesson": 32
+ },
+ {
+   "kanji": "廿",
+   "lesson": 32
+ },
+ {
+   "kanji": "庶",
+   "lesson": 32
+ },
+ {
+   "kanji": "遮",
+   "lesson": 32
+ },
+ {
+   "kanji": "席",
+   "lesson": 32
+ },
+ {
+   "kanji": "度",
+   "lesson": 32
+ },
+ {
+   "kanji": "渡",
+   "lesson": 32
+ },
+ {
+   "kanji": "奔",
+   "lesson": 32
+ },
+ {
+   "kanji": "噴",
+   "lesson": 32
+ },
+ {
+   "kanji": "墳",
+   "lesson": 32
+ },
+ {
+   "kanji": "憤",
+   "lesson": 32
+ },
+ {
+   "kanji": "焼",
+   "lesson": 32
+ },
+ {
+   "kanji": "暁",
+   "lesson": 32
+ },
+ {
+   "kanji": "半",
+   "lesson": 32
+ },
+ {
+   "kanji": "伴",
+   "lesson": 32
+ },
+ {
+   "kanji": "畔",
+   "lesson": 32
+ },
+ {
+   "kanji": "判",
+   "lesson": 32
+ },
+ {
+   "kanji": "拳",
+   "lesson": 32
+ },
+ {
+   "kanji": "券",
+   "lesson": 32
+ },
+ {
+   "kanji": "巻",
+   "lesson": 32
+ },
+ {
+   "kanji": "圏",
+   "lesson": 32
+ },
+ {
+   "kanji": "勝",
+   "lesson": 32
+ },
+ {
+   "kanji": "藤",
+   "lesson": 32
+ },
+ {
+   "kanji": "謄",
+   "lesson": 32
+ },
+ {
+   "kanji": "片",
+   "lesson": 32
+ },
+ {
+   "kanji": "版",
+   "lesson": 32
+ },
+ {
+   "kanji": "之",
+   "lesson": 32
+ },
+ {
+   "kanji": "乏",
+   "lesson": 32
+ },
+ {
+   "kanji": "芝",
+   "lesson": 32
+ },
+ {
+   "kanji": "不",
+   "lesson": 32
+ },
+ {
+   "kanji": "否",
+   "lesson": 32
+ },
+ {
+   "kanji": "杯",
+   "lesson": 32
+ },
+ {
+   "kanji": "矢",
+   "lesson": 33
+ },
+ {
+   "kanji": "矯",
+   "lesson": 33
+ },
+ {
+   "kanji": "族",
+   "lesson": 33
+ },
+ {
+   "kanji": "知",
+   "lesson": 33
+ },
+ {
+   "kanji": "智",
+   "lesson": 33
+ },
+ {
+   "kanji": "挨",
+   "lesson": 33
+ },
+ {
+   "kanji": "矛",
+   "lesson": 33
+ },
+ {
+   "kanji": "柔",
+   "lesson": 33
+ },
+ {
+   "kanji": "務",
+   "lesson": 33
+ },
+ {
+   "kanji": "霧",
+   "lesson": 33
+ },
+ {
+   "kanji": "班",
+   "lesson": 33
+ },
+ {
+   "kanji": "帰",
+   "lesson": 33
+ },
+ {
+   "kanji": "弓",
+   "lesson": 33
+ },
+ {
+   "kanji": "引",
+   "lesson": 33
+ },
+ {
+   "kanji": "弔",
+   "lesson": 33
+ },
+ {
+   "kanji": "弘",
+   "lesson": 33
+ },
+ {
+   "kanji": "強",
+   "lesson": 33
+ },
+ {
+   "kanji": "弥",
+   "lesson": 33
+ },
+ {
+   "kanji": "弱",
+   "lesson": 33
+ },
+ {
+   "kanji": "溺",
+   "lesson": 33
+ },
+ {
+   "kanji": "沸",
+   "lesson": 33
+ },
+ {
+   "kanji": "費",
+   "lesson": 33
+ },
+ {
+   "kanji": "第",
+   "lesson": 33
+ },
+ {
+   "kanji": "弟",
+   "lesson": 33
+ },
+ {
+   "kanji": "巧",
+   "lesson": 33
+ },
+ {
+   "kanji": "号",
+   "lesson": 33
+ },
+ {
+   "kanji": "朽",
+   "lesson": 33
+ },
+ {
+   "kanji": "誇",
+   "lesson": 33
+ },
+ {
+   "kanji": "顎",
+   "lesson": 33
+ },
+ {
+   "kanji": "汚",
+   "lesson": 33
+ },
+ {
+   "kanji": "与",
+   "lesson": 33
+ },
+ {
+   "kanji": "写",
+   "lesson": 33
+ },
+ {
+   "kanji": "身",
+   "lesson": 34
+ },
+ {
+   "kanji": "射",
+   "lesson": 34
+ },
+ {
+   "kanji": "謝",
+   "lesson": 34
+ },
+ {
+   "kanji": "老",
+   "lesson": 34
+ },
+ {
+   "kanji": "考",
+   "lesson": 34
+ },
+ {
+   "kanji": "孝",
+   "lesson": 34
+ },
+ {
+   "kanji": "教",
+   "lesson": 34
+ },
+ {
+   "kanji": "拷",
+   "lesson": 34
+ },
+ {
+   "kanji": "者",
+   "lesson": 34
+ },
+ {
+   "kanji": "煮",
+   "lesson": 34
+ },
+ {
+   "kanji": "著",
+   "lesson": 34
+ },
+ {
+   "kanji": "箸",
+   "lesson": 34
+ },
+ {
+   "kanji": "署",
+   "lesson": 34
+ },
+ {
+   "kanji": "暑",
+   "lesson": 34
+ },
+ {
+   "kanji": "諸",
+   "lesson": 34
+ },
+ {
+   "kanji": "猪",
+   "lesson": 34
+ },
+ {
+   "kanji": "渚",
+   "lesson": 34
+ },
+ {
+   "kanji": "賭",
+   "lesson": 34
+ },
+ {
+   "kanji": "峡",
+   "lesson": 34
+ },
+ {
+   "kanji": "狭",
+   "lesson": 34
+ },
+ {
+   "kanji": "挟",
+   "lesson": 34
+ },
+ {
+   "kanji": "頬",
+   "lesson": 34
+ },
+ {
+   "kanji": "追",
+   "lesson": 34
+ },
+ {
+   "kanji": "阜",
+   "lesson": 34
+ },
+ {
+   "kanji": "師",
+   "lesson": 34
+ },
+ {
+   "kanji": "帥",
+   "lesson": 34
+ },
+ {
+   "kanji": "官",
+   "lesson": 34
+ },
+ {
+   "kanji": "棺",
+   "lesson": 34
+ },
+ {
+   "kanji": "管",
+   "lesson": 34
+ },
+ {
+   "kanji": "父",
+   "lesson": 34
+ },
+ {
+   "kanji": "釜",
+   "lesson": 34
+ },
+ {
+   "kanji": "交",
+   "lesson": 34
+ },
+ {
+   "kanji": "効",
+   "lesson": 34
+ },
+ {
+   "kanji": "較",
+   "lesson": 34
+ },
+ {
+   "kanji": "校",
+   "lesson": 34
+ },
+ {
+   "kanji": "足",
+   "lesson": 34
+ },
+ {
+   "kanji": "促",
+   "lesson": 34
+ },
+ {
+   "kanji": "捉",
+   "lesson": 34
+ },
+ {
+   "kanji": "距",
+   "lesson": 34
+ },
+ {
+   "kanji": "路",
+   "lesson": 34
+ },
+ {
+   "kanji": "露",
+   "lesson": 34
+ },
+ {
+   "kanji": "跳",
+   "lesson": 34
+ },
+ {
+   "kanji": "躍",
+   "lesson": 34
+ },
+ {
+   "kanji": "践",
+   "lesson": 34
+ },
+ {
+   "kanji": "踏",
+   "lesson": 34
+ },
+ {
+   "kanji": "踪",
+   "lesson": 34
+ },
+ {
+   "kanji": "骨",
+   "lesson": 34
+ },
+ {
+   "kanji": "滑",
+   "lesson": 34
+ },
+ {
+   "kanji": "髄",
+   "lesson": 34
+ },
+ {
+   "kanji": "禍",
+   "lesson": 34
+ },
+ {
+   "kanji": "渦",
+   "lesson": 34
+ },
+ {
+   "kanji": "鍋",
+   "lesson": 34
+ },
+ {
+   "kanji": "過",
+   "lesson": 34
+ },
+ {
+   "kanji": "阪",
+   "lesson": 35
+ },
+ {
+   "kanji": "阿",
+   "lesson": 35
+ },
+ {
+   "kanji": "際",
+   "lesson": 35
+ },
+ {
+   "kanji": "障",
+   "lesson": 35
+ },
+ {
+   "kanji": "隙",
+   "lesson": 35
+ },
+ {
+   "kanji": "随",
+   "lesson": 35
+ },
+ {
+   "kanji": "陪",
+   "lesson": 35
+ },
+ {
+   "kanji": "陽",
+   "lesson": 35
+ },
+ {
+   "kanji": "陳",
+   "lesson": 35
+ },
+ {
+   "kanji": "防",
+   "lesson": 35
+ },
+ {
+   "kanji": "附",
+   "lesson": 35
+ },
+ {
+   "kanji": "院",
+   "lesson": 35
+ },
+ {
+   "kanji": "陣",
+   "lesson": 35
+ },
+ {
+   "kanji": "隊",
+   "lesson": 35
+ },
+ {
+   "kanji": "墜",
+   "lesson": 35
+ },
+ {
+   "kanji": "降",
+   "lesson": 35
+ },
+ {
+   "kanji": "階",
+   "lesson": 35
+ },
+ {
+   "kanji": "陛",
+   "lesson": 35
+ },
+ {
+   "kanji": "隣",
+   "lesson": 35
+ },
+ {
+   "kanji": "隔",
+   "lesson": 35
+ },
+ {
+   "kanji": "隠",
+   "lesson": 35
+ },
+ {
+   "kanji": "堕",
+   "lesson": 35
+ },
+ {
+   "kanji": "陥",
+   "lesson": 35
+ },
+ {
+   "kanji": "穴",
+   "lesson": 35
+ },
+ {
+   "kanji": "空",
+   "lesson": 35
+ },
+ {
+   "kanji": "控",
+   "lesson": 35
+ },
+ {
+   "kanji": "突",
+   "lesson": 35
+ },
+ {
+   "kanji": "究",
+   "lesson": 35
+ },
+ {
+   "kanji": "窒",
+   "lesson": 35
+ },
+ {
+   "kanji": "窃",
+   "lesson": 35
+ },
+ {
+   "kanji": "窟",
+   "lesson": 35
+ },
+ {
+   "kanji": "窪",
+   "lesson": 35
+ },
+ {
+   "kanji": "搾",
+   "lesson": 35
+ },
+ {
+   "kanji": "窯",
+   "lesson": 35
+ },
+ {
+   "kanji": "窮",
+   "lesson": 35
+ },
+ {
+   "kanji": "探",
+   "lesson": 35
+ },
+ {
+   "kanji": "深",
+   "lesson": 35
+ },
+ {
+   "kanji": "丘",
+   "lesson": 35
+ },
+ {
+   "kanji": "岳",
+   "lesson": 35
+ },
+ {
+   "kanji": "兵",
+   "lesson": 35
+ },
+ {
+   "kanji": "浜",
+   "lesson": 35
+ },
+ {
+   "kanji": "糸",
+   "lesson": 36
+ },
+ {
+   "kanji": "織",
+   "lesson": 36
+ },
+ {
+   "kanji": "繕",
+   "lesson": 36
+ },
+ {
+   "kanji": "縮",
+   "lesson": 36
+ },
+ {
+   "kanji": "繁",
+   "lesson": 36
+ },
+ {
+   "kanji": "縦",
+   "lesson": 36
+ },
+ {
+   "kanji": "緻",
+   "lesson": 36
+ },
+ {
+   "kanji": "線",
+   "lesson": 36
+ },
+ {
+   "kanji": "綻",
+   "lesson": 36
+ },
+ {
+   "kanji": "締",
+   "lesson": 36
+ },
+ {
+   "kanji": "維",
+   "lesson": 36
+ },
+ {
+   "kanji": "羅",
+   "lesson": 36
+ },
+ {
+   "kanji": "練",
+   "lesson": 36
+ },
+ {
+   "kanji": "緒",
+   "lesson": 36
+ },
+ {
+   "kanji": "続",
+   "lesson": 36
+ },
+ {
+   "kanji": "絵",
+   "lesson": 36
+ },
+ {
+   "kanji": "統",
+   "lesson": 36
+ },
+ {
+   "kanji": "絞",
+   "lesson": 36
+ },
+ {
+   "kanji": "給",
+   "lesson": 36
+ },
+ {
+   "kanji": "絡",
+   "lesson": 36
+ },
+ {
+   "kanji": "結",
+   "lesson": 36
+ },
+ {
+   "kanji": "終",
+   "lesson": 36
+ },
+ {
+   "kanji": "級",
+   "lesson": 36
+ },
+ {
+   "kanji": "紀",
+   "lesson": 36
+ },
+ {
+   "kanji": "紅",
+   "lesson": 36
+ },
+ {
+   "kanji": "納",
+   "lesson": 36
+ },
+ {
+   "kanji": "紡",
+   "lesson": 36
+ },
+ {
+   "kanji": "紛",
+   "lesson": 36
+ },
+ {
+   "kanji": "紹",
+   "lesson": 36
+ },
+ {
+   "kanji": "経",
+   "lesson": 36
+ },
+ {
+   "kanji": "紳",
+   "lesson": 36
+ },
+ {
+   "kanji": "約",
+   "lesson": 36
+ },
+ {
+   "kanji": "細",
+   "lesson": 36
+ },
+ {
+   "kanji": "累",
+   "lesson": 36
+ },
+ {
+   "kanji": "索",
+   "lesson": 36
+ },
+ {
+   "kanji": "総",
+   "lesson": 36
+ },
+ {
+   "kanji": "綿",
+   "lesson": 36
+ },
+ {
+   "kanji": "絹",
+   "lesson": 36
+ },
+ {
+   "kanji": "繰",
+   "lesson": 36
+ },
+ {
+   "kanji": "継",
+   "lesson": 36
+ },
+ {
+   "kanji": "緑",
+   "lesson": 36
+ },
+ {
+   "kanji": "縁",
+   "lesson": 36
+ },
+ {
+   "kanji": "網",
+   "lesson": 36
+ },
+ {
+   "kanji": "緊",
+   "lesson": 36
+ },
+ {
+   "kanji": "紫",
+   "lesson": 36
+ },
+ {
+   "kanji": "縛",
+   "lesson": 36
+ },
+ {
+   "kanji": "縄",
+   "lesson": 36
+ },
+ {
+   "kanji": "幼",
+   "lesson": 36
+ },
+ {
+   "kanji": "後",
+   "lesson": 36
+ },
+ {
+   "kanji": "幽",
+   "lesson": 36
+ },
+ {
+   "kanji": "幾",
+   "lesson": 36
+ },
+ {
+   "kanji": "機",
+   "lesson": 36
+ },
+ {
+   "kanji": "畿",
+   "lesson": 36
+ },
+ {
+   "kanji": "玄",
+   "lesson": 36
+ },
+ {
+   "kanji": "畜",
+   "lesson": 36
+ },
+ {
+   "kanji": "蓄",
+   "lesson": 36
+ },
+ {
+   "kanji": "弦",
+   "lesson": 36
+ },
+ {
+   "kanji": "擁",
+   "lesson": 36
+ },
+ {
+   "kanji": "滋",
+   "lesson": 36
+ },
+ {
+   "kanji": "慈",
+   "lesson": 36
+ },
+ {
+   "kanji": "磁",
+   "lesson": 36
+ },
+ {
+   "kanji": "系",
+   "lesson": 36
+ },
+ {
+   "kanji": "係",
+   "lesson": 36
+ },
+ {
+   "kanji": "孫",
+   "lesson": 36
+ },
+ {
+   "kanji": "懸",
+   "lesson": 36
+ },
+ {
+   "kanji": "遜",
+   "lesson": 36
+ },
+ {
+   "kanji": "却",
+   "lesson": 37
+ },
+ {
+   "kanji": "脚",
+   "lesson": 37
+ },
+ {
+   "kanji": "卸",
+   "lesson": 37
+ },
+ {
+   "kanji": "御",
+   "lesson": 37
+ },
+ {
+   "kanji": "服",
+   "lesson": 37
+ },
+ {
+   "kanji": "命",
+   "lesson": 37
+ },
+ {
+   "kanji": "令",
+   "lesson": 37
+ },
+ {
+   "kanji": "零",
+   "lesson": 37
+ },
+ {
+   "kanji": "齢",
+   "lesson": 37
+ },
+ {
+   "kanji": "冷",
+   "lesson": 37
+ },
+ {
+   "kanji": "領",
+   "lesson": 37
+ },
+ {
+   "kanji": "鈴",
+   "lesson": 37
+ },
+ {
+   "kanji": "勇",
+   "lesson": 37
+ },
+ {
+   "kanji": "湧",
+   "lesson": 37
+ },
+ {
+   "kanji": "通",
+   "lesson": 37
+ },
+ {
+   "kanji": "踊",
+   "lesson": 37
+ },
+ {
+   "kanji": "疑",
+   "lesson": 37
+ },
+ {
+   "kanji": "擬",
+   "lesson": 37
+ },
+ {
+   "kanji": "凝",
+   "lesson": 37
+ },
+ {
+   "kanji": "範",
+   "lesson": 37
+ },
+ {
+   "kanji": "犯",
+   "lesson": 37
+ },
+ {
+   "kanji": "氾",
+   "lesson": 37
+ },
+ {
+   "kanji": "厄",
+   "lesson": 37
+ },
+ {
+   "kanji": "危",
+   "lesson": 37
+ },
+ {
+   "kanji": "宛",
+   "lesson": 37
+ },
+ {
+   "kanji": "腕",
+   "lesson": 37
+ },
+ {
+   "kanji": "苑",
+   "lesson": 37
+ },
+ {
+   "kanji": "怨",
+   "lesson": 37
+ },
+ {
+   "kanji": "柳",
+   "lesson": 37
+ },
+ {
+   "kanji": "卵",
+   "lesson": 37
+ },
+ {
+   "kanji": "留",
+   "lesson": 37
+ },
+ {
+   "kanji": "瑠",
+   "lesson": 37
+ },
+ {
+   "kanji": "貿",
+   "lesson": 37
+ },
+ {
+   "kanji": "印",
+   "lesson": 37
+ },
+ {
+   "kanji": "臼",
+   "lesson": 37
+ },
+ {
+   "kanji": "毀",
+   "lesson": 37
+ },
+ {
+   "kanji": "興",
+   "lesson": 37
+ },
+ {
+   "kanji": "酉",
+   "lesson": 38
+ },
+ {
+   "kanji": "酒",
+   "lesson": 38
+ },
+ {
+   "kanji": "酌",
+   "lesson": 38
+ },
+ {
+   "kanji": "酎",
+   "lesson": 38
+ },
+ {
+   "kanji": "酵",
+   "lesson": 38
+ },
+ {
+   "kanji": "酷",
+   "lesson": 38
+ },
+ {
+   "kanji": "酬",
+   "lesson": 38
+ },
+ {
+   "kanji": "酪",
+   "lesson": 38
+ },
+ {
+   "kanji": "酢",
+   "lesson": 38
+ },
+ {
+   "kanji": "酔",
+   "lesson": 38
+ },
+ {
+   "kanji": "配",
+   "lesson": 38
+ },
+ {
+   "kanji": "酸",
+   "lesson": 38
+ },
+ {
+   "kanji": "猶",
+   "lesson": 38
+ },
+ {
+   "kanji": "尊",
+   "lesson": 38
+ },
+ {
+   "kanji": "豆",
+   "lesson": 38
+ },
+ {
+   "kanji": "頭",
+   "lesson": 38
+ },
+ {
+   "kanji": "短",
+   "lesson": 38
+ },
+ {
+   "kanji": "豊",
+   "lesson": 38
+ },
+ {
+   "kanji": "鼓",
+   "lesson": 38
+ },
+ {
+   "kanji": "喜",
+   "lesson": 38
+ },
+ {
+   "kanji": "樹",
+   "lesson": 38
+ },
+ {
+   "kanji": "皿",
+   "lesson": 38
+ },
+ {
+   "kanji": "血",
+   "lesson": 38
+ },
+ {
+   "kanji": "盆",
+   "lesson": 38
+ },
+ {
+   "kanji": "盟",
+   "lesson": 38
+ },
+ {
+   "kanji": "盗",
+   "lesson": 38
+ },
+ {
+   "kanji": "温",
+   "lesson": 38
+ },
+ {
+   "kanji": "蓋",
+   "lesson": 38
+ },
+ {
+   "kanji": "監",
+   "lesson": 38
+ },
+ {
+   "kanji": "濫",
+   "lesson": 38
+ },
+ {
+   "kanji": "鑑",
+   "lesson": 38
+ },
+ {
+   "kanji": "藍",
+   "lesson": 38
+ },
+ {
+   "kanji": "猛",
+   "lesson": 38
+ },
+ {
+   "kanji": "盛",
+   "lesson": 38
+ },
+ {
+   "kanji": "塩",
+   "lesson": 38
+ },
+ {
+   "kanji": "銀",
+   "lesson": 38
+ },
+ {
+   "kanji": "恨",
+   "lesson": 38
+ },
+ {
+   "kanji": "根",
+   "lesson": 38
+ },
+ {
+   "kanji": "即",
+   "lesson": 38
+ },
+ {
+   "kanji": "爵",
+   "lesson": 38
+ },
+ {
+   "kanji": "節",
+   "lesson": 38
+ },
+ {
+   "kanji": "退",
+   "lesson": 38
+ },
+ {
+   "kanji": "限",
+   "lesson": 38
+ },
+ {
+   "kanji": "眼",
+   "lesson": 38
+ },
+ {
+   "kanji": "良",
+   "lesson": 38
+ },
+ {
+   "kanji": "朗",
+   "lesson": 38
+ },
+ {
+   "kanji": "浪",
+   "lesson": 38
+ },
+ {
+   "kanji": "娘",
+   "lesson": 38
+ },
+ {
+   "kanji": "食",
+   "lesson": 38
+ },
+ {
+   "kanji": "飯",
+   "lesson": 38
+ },
+ {
+   "kanji": "飲",
+   "lesson": 38
+ },
+ {
+   "kanji": "飢",
+   "lesson": 38
+ },
+ {
+   "kanji": "餓",
+   "lesson": 38
+ },
+ {
+   "kanji": "飾",
+   "lesson": 38
+ },
+ {
+   "kanji": "餌",
+   "lesson": 38
+ },
+ {
+   "kanji": "館",
+   "lesson": 38
+ },
+ {
+   "kanji": "餅",
+   "lesson": 38
+ },
+ {
+   "kanji": "養",
+   "lesson": 38
+ },
+ {
+   "kanji": "飽",
+   "lesson": 38
+ },
+ {
+   "kanji": "既",
+   "lesson": 38
+ },
+ {
+   "kanji": "概",
+   "lesson": 38
+ },
+ {
+   "kanji": "慨",
+   "lesson": 38
+ },
+ {
+   "kanji": "平",
+   "lesson": 39
+ },
+ {
+   "kanji": "呼",
+   "lesson": 39
+ },
+ {
+   "kanji": "坪",
+   "lesson": 39
+ },
+ {
+   "kanji": "評",
+   "lesson": 39
+ },
+ {
+   "kanji": "刈",
+   "lesson": 39
+ },
+ {
+   "kanji": "刹",
+   "lesson": 39
+ },
+ {
+   "kanji": "希",
+   "lesson": 39
+ },
+ {
+   "kanji": "凶",
+   "lesson": 39
+ },
+ {
+   "kanji": "胸",
+   "lesson": 39
+ },
+ {
+   "kanji": "離",
+   "lesson": 39
+ },
+ {
+   "kanji": "璃",
+   "lesson": 39
+ },
+ {
+   "kanji": "殺",
+   "lesson": 39
+ },
+ {
+   "kanji": "爽",
+   "lesson": 39
+ },
+ {
+   "kanji": "純",
+   "lesson": 39
+ },
+ {
+   "kanji": "頓",
+   "lesson": 39
+ },
+ {
+   "kanji": "鈍",
+   "lesson": 39
+ },
+ {
+   "kanji": "辛",
+   "lesson": 39
+ },
+ {
+   "kanji": "辞",
+   "lesson": 39
+ },
+ {
+   "kanji": "梓",
+   "lesson": 39
+ },
+ {
+   "kanji": "宰",
+   "lesson": 39
+ },
+ {
+   "kanji": "壁",
+   "lesson": 39
+ },
+ {
+   "kanji": "璧",
+   "lesson": 39
+ },
+ {
+   "kanji": "避",
+   "lesson": 39
+ },
+ {
+   "kanji": "新",
+   "lesson": 39
+ },
+ {
+   "kanji": "薪",
+   "lesson": 39
+ },
+ {
+   "kanji": "親",
+   "lesson": 39
+ },
+ {
+   "kanji": "幸",
+   "lesson": 39
+ },
+ {
+   "kanji": "執",
+   "lesson": 39
+ },
+ {
+   "kanji": "摯",
+   "lesson": 39
+ },
+ {
+   "kanji": "報",
+   "lesson": 39
+ },
+ {
+   "kanji": "叫",
+   "lesson": 39
+ },
+ {
+   "kanji": "糾",
+   "lesson": 39
+ },
+ {
+   "kanji": "収",
+   "lesson": 39
+ },
+ {
+   "kanji": "卑",
+   "lesson": 39
+ },
+ {
+   "kanji": "碑",
+   "lesson": 39
+ },
+ {
+   "kanji": "陸",
+   "lesson": 39
+ },
+ {
+   "kanji": "睦",
+   "lesson": 39
+ },
+ {
+   "kanji": "勢",
+   "lesson": 39
+ },
+ {
+   "kanji": "熱",
+   "lesson": 39
+ },
+ {
+   "kanji": "菱",
+   "lesson": 39
+ },
+ {
+   "kanji": "陵",
+   "lesson": 39
+ },
+ {
+   "kanji": "亥",
+   "lesson": 39
+ },
+ {
+   "kanji": "核",
+   "lesson": 39
+ },
+ {
+   "kanji": "刻",
+   "lesson": 39
+ },
+ {
+   "kanji": "該",
+   "lesson": 39
+ },
+ {
+   "kanji": "骸",
+   "lesson": 39
+ },
+ {
+   "kanji": "劾",
+   "lesson": 39
+ },
+ {
+   "kanji": "述",
+   "lesson": 39
+ },
+ {
+   "kanji": "術",
+   "lesson": 39
+ },
+ {
+   "kanji": "寒",
+   "lesson": 39
+ },
+ {
+   "kanji": "塞",
+   "lesson": 39
+ },
+ {
+   "kanji": "醸",
+   "lesson": 39
+ },
+ {
+   "kanji": "譲",
+   "lesson": 39
+ },
+ {
+   "kanji": "壌",
+   "lesson": 39
+ },
+ {
+   "kanji": "嬢",
+   "lesson": 39
+ },
+ {
+   "kanji": "毒",
+   "lesson": 40
+ },
+ {
+   "kanji": "素",
+   "lesson": 40
+ },
+ {
+   "kanji": "麦",
+   "lesson": 40
+ },
+ {
+   "kanji": "青",
+   "lesson": 40
+ },
+ {
+   "kanji": "精",
+   "lesson": 40
+ },
+ {
+   "kanji": "請",
+   "lesson": 40
+ },
+ {
+   "kanji": "情",
+   "lesson": 40
+ },
+ {
+   "kanji": "晴",
+   "lesson": 40
+ },
+ {
+   "kanji": "清",
+   "lesson": 40
+ },
+ {
+   "kanji": "静",
+   "lesson": 40
+ },
+ {
+   "kanji": "責",
+   "lesson": 40
+ },
+ {
+   "kanji": "績",
+   "lesson": 40
+ },
+ {
+   "kanji": "積",
+   "lesson": 40
+ },
+ {
+   "kanji": "債",
+   "lesson": 40
+ },
+ {
+   "kanji": "漬",
+   "lesson": 40
+ },
+ {
+   "kanji": "表",
+   "lesson": 40
+ },
+ {
+   "kanji": "俵",
+   "lesson": 40
+ },
+ {
+   "kanji": "潔",
+   "lesson": 40
+ },
+ {
+   "kanji": "契",
+   "lesson": 40
+ },
+ {
+   "kanji": "喫",
+   "lesson": 40
+ },
+ {
+   "kanji": "害",
+   "lesson": 40
+ },
+ {
+   "kanji": "轄",
+   "lesson": 40
+ },
+ {
+   "kanji": "割",
+   "lesson": 40
+ },
+ {
+   "kanji": "憲",
+   "lesson": 40
+ },
+ {
+   "kanji": "生",
+   "lesson": 40
+ },
+ {
+   "kanji": "星",
+   "lesson": 40
+ },
+ {
+   "kanji": "醒",
+   "lesson": 40
+ },
+ {
+   "kanji": "姓",
+   "lesson": 40
+ },
+ {
+   "kanji": "性",
+   "lesson": 40
+ },
+ {
+   "kanji": "牲",
+   "lesson": 40
+ },
+ {
+   "kanji": "産",
+   "lesson": 40
+ },
+ {
+   "kanji": "隆",
+   "lesson": 40
+ },
+ {
+   "kanji": "峰",
+   "lesson": 40
+ },
+ {
+   "kanji": "蜂",
+   "lesson": 40
+ },
+ {
+   "kanji": "縫",
+   "lesson": 40
+ },
+ {
+   "kanji": "拝",
+   "lesson": 40
+ },
+ {
+   "kanji": "寿",
+   "lesson": 40
+ },
+ {
+   "kanji": "鋳",
+   "lesson": 40
+ },
+ {
+   "kanji": "籍",
+   "lesson": 40
+ },
+ {
+   "kanji": "春",
+   "lesson": 40
+ },
+ {
+   "kanji": "椿",
+   "lesson": 40
+ },
+ {
+   "kanji": "泰",
+   "lesson": 40
+ },
+ {
+   "kanji": "奏",
+   "lesson": 40
+ },
+ {
+   "kanji": "実",
+   "lesson": 40
+ },
+ {
+   "kanji": "奉",
+   "lesson": 40
+ },
+ {
+   "kanji": "俸",
+   "lesson": 40
+ },
+ {
+   "kanji": "棒",
+   "lesson": 40
+ },
+ {
+   "kanji": "謹",
+   "lesson": 40
+ },
+ {
+   "kanji": "僅",
+   "lesson": 40
+ },
+ {
+   "kanji": "勤",
+   "lesson": 40
+ },
+ {
+   "kanji": "漢",
+   "lesson": 40
+ },
+ {
+   "kanji": "嘆",
+   "lesson": 40
+ },
+ {
+   "kanji": "難",
+   "lesson": 40
+ },
+ {
+   "kanji": "華",
+   "lesson": 40
+ },
+ {
+   "kanji": "垂",
+   "lesson": 40
+ },
+ {
+   "kanji": "唾",
+   "lesson": 40
+ },
+ {
+   "kanji": "睡",
+   "lesson": 40
+ },
+ {
+   "kanji": "錘",
+   "lesson": 40
+ },
+ {
+   "kanji": "乗",
+   "lesson": 40
+ },
+ {
+   "kanji": "剰",
+   "lesson": 40
+ },
+ {
+   "kanji": "今",
+   "lesson": 41
+ },
+ {
+   "kanji": "含",
+   "lesson": 41
+ },
+ {
+   "kanji": "貪",
+   "lesson": 41
+ },
+ {
+   "kanji": "吟",
+   "lesson": 41
+ },
+ {
+   "kanji": "念",
+   "lesson": 41
+ },
+ {
+   "kanji": "捻",
+   "lesson": 41
+ },
+ {
+   "kanji": "琴",
+   "lesson": 41
+ },
+ {
+   "kanji": "陰",
+   "lesson": 41
+ },
+ {
+   "kanji": "予",
+   "lesson": 41
+ },
+ {
+   "kanji": "序",
+   "lesson": 41
+ },
+ {
+   "kanji": "預",
+   "lesson": 41
+ },
+ {
+   "kanji": "野",
+   "lesson": 41
+ },
+ {
+   "kanji": "兼",
+   "lesson": 41
+ },
+ {
+   "kanji": "嫌",
+   "lesson": 41
+ },
+ {
+   "kanji": "鎌",
+   "lesson": 41
+ },
+ {
+   "kanji": "謙",
+   "lesson": 41
+ },
+ {
+   "kanji": "廉",
+   "lesson": 41
+ },
+ {
+   "kanji": "西",
+   "lesson": 41
+ },
+ {
+   "kanji": "価",
+   "lesson": 41
+ },
+ {
+   "kanji": "要",
+   "lesson": 41
+ },
+ {
+   "kanji": "腰",
+   "lesson": 41
+ },
+ {
+   "kanji": "票",
+   "lesson": 41
+ },
+ {
+   "kanji": "漂",
+   "lesson": 41
+ },
+ {
+   "kanji": "標",
+   "lesson": 41
+ },
+ {
+   "kanji": "栗",
+   "lesson": 41
+ },
+ {
+   "kanji": "慄",
+   "lesson": 41
+ },
+ {
+   "kanji": "遷",
+   "lesson": 41
+ },
+ {
+   "kanji": "覆",
+   "lesson": 41
+ },
+ {
+   "kanji": "煙",
+   "lesson": 41
+ },
+ {
+   "kanji": "南",
+   "lesson": 41
+ },
+ {
+   "kanji": "楠",
+   "lesson": 41
+ },
+ {
+   "kanji": "献",
+   "lesson": 41
+ },
+ {
+   "kanji": "門",
+   "lesson": 42
+ },
+ {
+   "kanji": "問",
+   "lesson": 42
+ },
+ {
+   "kanji": "閲",
+   "lesson": 42
+ },
+ {
+   "kanji": "閥",
+   "lesson": 42
+ },
+ {
+   "kanji": "間",
+   "lesson": 42
+ },
+ {
+   "kanji": "闇",
+   "lesson": 42
+ },
+ {
+   "kanji": "簡",
+   "lesson": 42
+ },
+ {
+   "kanji": "開",
+   "lesson": 42
+ },
+ {
+   "kanji": "閉",
+   "lesson": 42
+ },
+ {
+   "kanji": "閣",
+   "lesson": 42
+ },
+ {
+   "kanji": "閑",
+   "lesson": 42
+ },
+ {
+   "kanji": "聞",
+   "lesson": 42
+ },
+ {
+   "kanji": "潤",
+   "lesson": 42
+ },
+ {
+   "kanji": "欄",
+   "lesson": 42
+ },
+ {
+   "kanji": "闘",
+   "lesson": 42
+ },
+ {
+   "kanji": "倉",
+   "lesson": 42
+ },
+ {
+   "kanji": "創",
+   "lesson": 42
+ },
+ {
+   "kanji": "非",
+   "lesson": 42
+ },
+ {
+   "kanji": "俳",
+   "lesson": 42
+ },
+ {
+   "kanji": "排",
+   "lesson": 42
+ },
+ {
+   "kanji": "悲",
+   "lesson": 42
+ },
+ {
+   "kanji": "罪",
+   "lesson": 42
+ },
+ {
+   "kanji": "輩",
+   "lesson": 42
+ },
+ {
+   "kanji": "扉",
+   "lesson": 42
+ },
+ {
+   "kanji": "侯",
+   "lesson": 42
+ },
+ {
+   "kanji": "喉",
+   "lesson": 42
+ },
+ {
+   "kanji": "候",
+   "lesson": 42
+ },
+ {
+   "kanji": "決",
+   "lesson": 42
+ },
+ {
+   "kanji": "快",
+   "lesson": 42
+ },
+ {
+   "kanji": "偉",
+   "lesson": 42
+ },
+ {
+   "kanji": "違",
+   "lesson": 42
+ },
+ {
+   "kanji": "緯",
+   "lesson": 42
+ },
+ {
+   "kanji": "衛",
+   "lesson": 42
+ },
+ {
+   "kanji": "韓",
+   "lesson": 42
+ },
+ {
+   "kanji": "干",
+   "lesson": 43
+ },
+ {
+   "kanji": "肝",
+   "lesson": 43
+ },
+ {
+   "kanji": "刊",
+   "lesson": 43
+ },
+ {
+   "kanji": "汗",
+   "lesson": 43
+ },
+ {
+   "kanji": "軒",
+   "lesson": 43
+ },
+ {
+   "kanji": "岸",
+   "lesson": 43
+ },
+ {
+   "kanji": "幹",
+   "lesson": 43
+ },
+ {
+   "kanji": "芋",
+   "lesson": 43
+ },
+ {
+   "kanji": "宇",
+   "lesson": 43
+ },
+ {
+   "kanji": "余",
+   "lesson": 43
+ },
+ {
+   "kanji": "除",
+   "lesson": 43
+ },
+ {
+   "kanji": "徐",
+   "lesson": 43
+ },
+ {
+   "kanji": "叙",
+   "lesson": 43
+ },
+ {
+   "kanji": "途",
+   "lesson": 43
+ },
+ {
+   "kanji": "斜",
+   "lesson": 43
+ },
+ {
+   "kanji": "塗",
+   "lesson": 43
+ },
+ {
+   "kanji": "束",
+   "lesson": 43
+ },
+ {
+   "kanji": "頼",
+   "lesson": 43
+ },
+ {
+   "kanji": "瀬",
+   "lesson": 43
+ },
+ {
+   "kanji": "勅",
+   "lesson": 43
+ },
+ {
+   "kanji": "疎",
+   "lesson": 43
+ },
+ {
+   "kanji": "辣",
+   "lesson": 43
+ },
+ {
+   "kanji": "速",
+   "lesson": 43
+ },
+ {
+   "kanji": "整",
+   "lesson": 43
+ },
+ {
+   "kanji": "剣",
+   "lesson": 43
+ },
+ {
+   "kanji": "険",
+   "lesson": 43
+ },
+ {
+   "kanji": "検",
+   "lesson": 43
+ },
+ {
+   "kanji": "倹",
+   "lesson": 43
+ },
+ {
+   "kanji": "重",
+   "lesson": 43
+ },
+ {
+   "kanji": "動",
+   "lesson": 43
+ },
+ {
+   "kanji": "腫",
+   "lesson": 43
+ },
+ {
+   "kanji": "勲",
+   "lesson": 43
+ },
+ {
+   "kanji": "働",
+   "lesson": 43
+ },
+ {
+   "kanji": "種",
+   "lesson": 43
+ },
+ {
+   "kanji": "衝",
+   "lesson": 43
+ },
+ {
+   "kanji": "薫",
+   "lesson": 43
+ },
+ {
+   "kanji": "病",
+   "lesson": 44
+ },
+ {
+   "kanji": "痴",
+   "lesson": 44
+ },
+ {
+   "kanji": "痘",
+   "lesson": 44
+ },
+ {
+   "kanji": "症",
+   "lesson": 44
+ },
+ {
+   "kanji": "瘍",
+   "lesson": 44
+ },
+ {
+   "kanji": "痩",
+   "lesson": 44
+ },
+ {
+   "kanji": "疾",
+   "lesson": 44
+ },
+ {
+   "kanji": "嫉",
+   "lesson": 44
+ },
+ {
+   "kanji": "痢",
+   "lesson": 44
+ },
+ {
+   "kanji": "痕",
+   "lesson": 44
+ },
+ {
+   "kanji": "疲",
+   "lesson": 44
+ },
+ {
+   "kanji": "疫",
+   "lesson": 44
+ },
+ {
+   "kanji": "痛",
+   "lesson": 44
+ },
+ {
+   "kanji": "癖",
+   "lesson": 44
+ },
+ {
+   "kanji": "匿",
+   "lesson": 44
+ },
+ {
+   "kanji": "匠",
+   "lesson": 44
+ },
+ {
+   "kanji": "医",
+   "lesson": 44
+ },
+ {
+   "kanji": "匹",
+   "lesson": 44
+ },
+ {
+   "kanji": "区",
+   "lesson": 44
+ },
+ {
+   "kanji": "枢",
+   "lesson": 44
+ },
+ {
+   "kanji": "殴",
+   "lesson": 44
+ },
+ {
+   "kanji": "欧",
+   "lesson": 44
+ },
+ {
+   "kanji": "抑",
+   "lesson": 44
+ },
+ {
+   "kanji": "仰",
+   "lesson": 44
+ },
+ {
+   "kanji": "迎",
+   "lesson": 44
+ },
+ {
+   "kanji": "登",
+   "lesson": 44
+ },
+ {
+   "kanji": "澄",
+   "lesson": 44
+ },
+ {
+   "kanji": "発",
+   "lesson": 44
+ },
+ {
+   "kanji": "廃",
+   "lesson": 44
+ },
+ {
+   "kanji": "僚",
+   "lesson": 44
+ },
+ {
+   "kanji": "瞭",
+   "lesson": 44
+ },
+ {
+   "kanji": "寮",
+   "lesson": 44
+ },
+ {
+   "kanji": "療",
+   "lesson": 44
+ },
+ {
+   "kanji": "彫",
+   "lesson": 45
+ },
+ {
+   "kanji": "形",
+   "lesson": 45
+ },
+ {
+   "kanji": "影",
+   "lesson": 45
+ },
+ {
+   "kanji": "杉",
+   "lesson": 45
+ },
+ {
+   "kanji": "彩",
+   "lesson": 45
+ },
+ {
+   "kanji": "彰",
+   "lesson": 45
+ },
+ {
+   "kanji": "彦",
+   "lesson": 45
+ },
+ {
+   "kanji": "顔",
+   "lesson": 45
+ },
+ {
+   "kanji": "須",
+   "lesson": 45
+ },
+ {
+   "kanji": "膨",
+   "lesson": 45
+ },
+ {
+   "kanji": "参",
+   "lesson": 45
+ },
+ {
+   "kanji": "惨",
+   "lesson": 45
+ },
+ {
+   "kanji": "修",
+   "lesson": 45
+ },
+ {
+   "kanji": "珍",
+   "lesson": 45
+ },
+ {
+   "kanji": "診",
+   "lesson": 45
+ },
+ {
+   "kanji": "文",
+   "lesson": 45
+ },
+ {
+   "kanji": "対",
+   "lesson": 45
+ },
+ {
+   "kanji": "紋",
+   "lesson": 45
+ },
+ {
+   "kanji": "蚊",
+   "lesson": 45
+ },
+ {
+   "kanji": "斑",
+   "lesson": 45
+ },
+ {
+   "kanji": "斉",
+   "lesson": 45
+ },
+ {
+   "kanji": "剤",
+   "lesson": 45
+ },
+ {
+   "kanji": "済",
+   "lesson": 45
+ },
+ {
+   "kanji": "斎",
+   "lesson": 45
+ },
+ {
+   "kanji": "粛",
+   "lesson": 45
+ },
+ {
+   "kanji": "塁",
+   "lesson": 45
+ },
+ {
+   "kanji": "楽",
+   "lesson": 45
+ },
+ {
+   "kanji": "薬",
+   "lesson": 45
+ },
+ {
+   "kanji": "率",
+   "lesson": 45
+ },
+ {
+   "kanji": "渋",
+   "lesson": 45
+ },
+ {
+   "kanji": "摂",
+   "lesson": 45
+ },
+ {
+   "kanji": "央",
+   "lesson": 45
+ },
+ {
+   "kanji": "英",
+   "lesson": 45
+ },
+ {
+   "kanji": "映",
+   "lesson": 45
+ },
+ {
+   "kanji": "赤",
+   "lesson": 45
+ },
+ {
+   "kanji": "赦",
+   "lesson": 45
+ },
+ {
+   "kanji": "変",
+   "lesson": 45
+ },
+ {
+   "kanji": "跡",
+   "lesson": 45
+ },
+ {
+   "kanji": "蛮",
+   "lesson": 45
+ },
+ {
+   "kanji": "恋",
+   "lesson": 45
+ },
+ {
+   "kanji": "湾",
+   "lesson": 45
+ },
+ {
+   "kanji": "黄",
+   "lesson": 45
+ },
+ {
+   "kanji": "横",
+   "lesson": 45
+ },
+ {
+   "kanji": "把",
+   "lesson": 45
+ },
+ {
+   "kanji": "色",
+   "lesson": 45
+ },
+ {
+   "kanji": "絶",
+   "lesson": 45
+ },
+ {
+   "kanji": "艶",
+   "lesson": 45
+ },
+ {
+   "kanji": "肥",
+   "lesson": 45
+ },
+ {
+   "kanji": "甘",
+   "lesson": 46
+ },
+ {
+   "kanji": "紺",
+   "lesson": 46
+ },
+ {
+   "kanji": "某",
+   "lesson": 46
+ },
+ {
+   "kanji": "謀",
+   "lesson": 46
+ },
+ {
+   "kanji": "媒",
+   "lesson": 46
+ },
+ {
+   "kanji": "欺",
+   "lesson": 46
+ },
+ {
+   "kanji": "棋",
+   "lesson": 46
+ },
+ {
+   "kanji": "旗",
+   "lesson": 46
+ },
+ {
+   "kanji": "期",
+   "lesson": 46
+ },
+ {
+   "kanji": "碁",
+   "lesson": 46
+ },
+ {
+   "kanji": "基",
+   "lesson": 46
+ },
+ {
+   "kanji": "甚",
+   "lesson": 46
+ },
+ {
+   "kanji": "勘",
+   "lesson": 46
+ },
+ {
+   "kanji": "堪",
+   "lesson": 46
+ },
+ {
+   "kanji": "貴",
+   "lesson": 46
+ },
+ {
+   "kanji": "遺",
+   "lesson": 46
+ },
+ {
+   "kanji": "遣",
+   "lesson": 46
+ },
+ {
+   "kanji": "潰",
+   "lesson": 46
+ },
+ {
+   "kanji": "舞",
+   "lesson": 46
+ },
+ {
+   "kanji": "無",
+   "lesson": 46
+ },
+ {
+   "kanji": "組",
+   "lesson": 47
+ },
+ {
+   "kanji": "粗",
+   "lesson": 47
+ },
+ {
+   "kanji": "租",
+   "lesson": 47
+ },
+ {
+   "kanji": "狙",
+   "lesson": 47
+ },
+ {
+   "kanji": "祖",
+   "lesson": 47
+ },
+ {
+   "kanji": "阻",
+   "lesson": 47
+ },
+ {
+   "kanji": "査",
+   "lesson": 47
+ },
+ {
+   "kanji": "助",
+   "lesson": 47
+ },
+ {
+   "kanji": "宜",
+   "lesson": 47
+ },
+ {
+   "kanji": "畳",
+   "lesson": 47
+ },
+ {
+   "kanji": "並",
+   "lesson": 47
+ },
+ {
+   "kanji": "普",
+   "lesson": 47
+ },
+ {
+   "kanji": "譜",
+   "lesson": 47
+ },
+ {
+   "kanji": "湿",
+   "lesson": 47
+ },
+ {
+   "kanji": "顕",
+   "lesson": 47
+ },
+ {
+   "kanji": "繊",
+   "lesson": 47
+ },
+ {
+   "kanji": "霊",
+   "lesson": 47
+ },
+ {
+   "kanji": "業",
+   "lesson": 47
+ },
+ {
+   "kanji": "撲",
+   "lesson": 47
+ },
+ {
+   "kanji": "僕",
+   "lesson": 47
+ },
+ {
+   "kanji": "共",
+   "lesson": 47
+ },
+ {
+   "kanji": "供",
+   "lesson": 47
+ },
+ {
+   "kanji": "異",
+   "lesson": 47
+ },
+ {
+   "kanji": "翼",
+   "lesson": 47
+ },
+ {
+   "kanji": "戴",
+   "lesson": 47
+ },
+ {
+   "kanji": "洪",
+   "lesson": 47
+ },
+ {
+   "kanji": "港",
+   "lesson": 47
+ },
+ {
+   "kanji": "暴",
+   "lesson": 47
+ },
+ {
+   "kanji": "爆",
+   "lesson": 47
+ },
+ {
+   "kanji": "恭",
+   "lesson": 47
+ },
+ {
+   "kanji": "選",
+   "lesson": 47
+ },
+ {
+   "kanji": "殿",
+   "lesson": 47
+ },
+ {
+   "kanji": "井",
+   "lesson": 48
+ },
+ {
+   "kanji": "丼",
+   "lesson": 48
+ },
+ {
+   "kanji": "囲",
+   "lesson": 48
+ },
+ {
+   "kanji": "耕",
+   "lesson": 48
+ },
+ {
+   "kanji": "亜",
+   "lesson": 48
+ },
+ {
+   "kanji": "悪",
+   "lesson": 48
+ },
+ {
+   "kanji": "円",
+   "lesson": 48
+ },
+ {
+   "kanji": "角",
+   "lesson": 48
+ },
+ {
+   "kanji": "触",
+   "lesson": 48
+ },
+ {
+   "kanji": "解",
+   "lesson": 48
+ },
+ {
+   "kanji": "再",
+   "lesson": 48
+ },
+ {
+   "kanji": "講",
+   "lesson": 48
+ },
+ {
+   "kanji": "購",
+   "lesson": 48
+ },
+ {
+   "kanji": "構",
+   "lesson": 48
+ },
+ {
+   "kanji": "溝",
+   "lesson": 48
+ },
+ {
+   "kanji": "論",
+   "lesson": 48
+ },
+ {
+   "kanji": "倫",
+   "lesson": 48
+ },
+ {
+   "kanji": "輪",
+   "lesson": 48
+ },
+ {
+   "kanji": "偏",
+   "lesson": 48
+ },
+ {
+   "kanji": "遍",
+   "lesson": 48
+ },
+ {
+   "kanji": "編",
+   "lesson": 48
+ },
+ {
+   "kanji": "冊",
+   "lesson": 48
+ },
+ {
+   "kanji": "柵",
+   "lesson": 48
+ },
+ {
+   "kanji": "典",
+   "lesson": 48
+ },
+ {
+   "kanji": "氏",
+   "lesson": 49
+ },
+ {
+   "kanji": "紙",
+   "lesson": 49
+ },
+ {
+   "kanji": "婚",
+   "lesson": 49
+ },
+ {
+   "kanji": "低",
+   "lesson": 49
+ },
+ {
+   "kanji": "抵",
+   "lesson": 49
+ },
+ {
+   "kanji": "底",
+   "lesson": 49
+ },
+ {
+   "kanji": "民",
+   "lesson": 49
+ },
+ {
+   "kanji": "眠",
+   "lesson": 49
+ },
+ {
+   "kanji": "捕",
+   "lesson": 49
+ },
+ {
+   "kanji": "哺",
+   "lesson": 49
+ },
+ {
+   "kanji": "浦",
+   "lesson": 49
+ },
+ {
+   "kanji": "蒲",
+   "lesson": 49
+ },
+ {
+   "kanji": "舗",
+   "lesson": 49
+ },
+ {
+   "kanji": "補",
+   "lesson": 49
+ },
+ {
+   "kanji": "邸",
+   "lesson": 49
+ },
+ {
+   "kanji": "郭",
+   "lesson": 49
+ },
+ {
+   "kanji": "郡",
+   "lesson": 49
+ },
+ {
+   "kanji": "郊",
+   "lesson": 49
+ },
+ {
+   "kanji": "部",
+   "lesson": 49
+ },
+ {
+   "kanji": "都",
+   "lesson": 49
+ },
+ {
+   "kanji": "郵",
+   "lesson": 49
+ },
+ {
+   "kanji": "邦",
+   "lesson": 49
+ },
+ {
+   "kanji": "那",
+   "lesson": 49
+ },
+ {
+   "kanji": "郷",
+   "lesson": 49
+ },
+ {
+   "kanji": "響",
+   "lesson": 49
+ },
+ {
+   "kanji": "郎",
+   "lesson": 49
+ },
+ {
+   "kanji": "廊",
+   "lesson": 49
+ },
+ {
+   "kanji": "盾",
+   "lesson": 50
+ },
+ {
+   "kanji": "循",
+   "lesson": 50
+ },
+ {
+   "kanji": "派",
+   "lesson": 50
+ },
+ {
+   "kanji": "脈",
+   "lesson": 50
+ },
+ {
+   "kanji": "衆",
+   "lesson": 50
+ },
+ {
+   "kanji": "逓",
+   "lesson": 50
+ },
+ {
+   "kanji": "段",
+   "lesson": 50
+ },
+ {
+   "kanji": "鍛",
+   "lesson": 50
+ },
+ {
+   "kanji": "后",
+   "lesson": 50
+ },
+ {
+   "kanji": "幻",
+   "lesson": 50
+ },
+ {
+   "kanji": "司",
+   "lesson": 50
+ },
+ {
+   "kanji": "伺",
+   "lesson": 50
+ },
+ {
+   "kanji": "詞",
+   "lesson": 50
+ },
+ {
+   "kanji": "飼",
+   "lesson": 50
+ },
+ {
+   "kanji": "嗣",
+   "lesson": 50
+ },
+ {
+   "kanji": "舟",
+   "lesson": 50
+ },
+ {
+   "kanji": "舶",
+   "lesson": 50
+ },
+ {
+   "kanji": "航",
+   "lesson": 50
+ },
+ {
+   "kanji": "舷",
+   "lesson": 50
+ },
+ {
+   "kanji": "般",
+   "lesson": 50
+ },
+ {
+   "kanji": "盤",
+   "lesson": 50
+ },
+ {
+   "kanji": "搬",
+   "lesson": 50
+ },
+ {
+   "kanji": "船",
+   "lesson": 50
+ },
+ {
+   "kanji": "艦",
+   "lesson": 50
+ },
+ {
+   "kanji": "艇",
+   "lesson": 50
+ },
+ {
+   "kanji": "瓜",
+   "lesson": 50
+ },
+ {
+   "kanji": "弧",
+   "lesson": 50
+ },
+ {
+   "kanji": "孤",
+   "lesson": 50
+ },
+ {
+   "kanji": "繭",
+   "lesson": 51
+ },
+ {
+   "kanji": "益",
+   "lesson": 51
+ },
+ {
+   "kanji": "暇",
+   "lesson": 51
+ },
+ {
+   "kanji": "敷",
+   "lesson": 51
+ },
+ {
+   "kanji": "来",
+   "lesson": 51
+ },
+ {
+   "kanji": "気",
+   "lesson": 51
+ },
+ {
+   "kanji": "汽",
+   "lesson": 51
+ },
+ {
+   "kanji": "飛",
+   "lesson": 51
+ },
+ {
+   "kanji": "沈",
+   "lesson": 51
+ },
+ {
+   "kanji": "枕",
+   "lesson": 51
+ },
+ {
+   "kanji": "妻",
+   "lesson": 51
+ },
+ {
+   "kanji": "凄",
+   "lesson": 51
+ },
+ {
+   "kanji": "衰",
+   "lesson": 51
+ },
+ {
+   "kanji": "衷",
+   "lesson": 51
+ },
+ {
+   "kanji": "面",
+   "lesson": 51
+ },
+ {
+   "kanji": "麺",
+   "lesson": 51
+ },
+ {
+   "kanji": "革",
+   "lesson": 51
+ },
+ {
+   "kanji": "靴",
+   "lesson": 51
+ },
+ {
+   "kanji": "覇",
+   "lesson": 51
+ },
+ {
+   "kanji": "声",
+   "lesson": 51
+ },
+ {
+   "kanji": "眉",
+   "lesson": 51
+ },
+ {
+   "kanji": "呉",
+   "lesson": 51
+ },
+ {
+   "kanji": "娯",
+   "lesson": 51
+ },
+ {
+   "kanji": "誤",
+   "lesson": 51
+ },
+ {
+   "kanji": "蒸",
+   "lesson": 51
+ },
+ {
+   "kanji": "承",
+   "lesson": 51
+ },
+ {
+   "kanji": "函",
+   "lesson": 51
+ },
+ {
+   "kanji": "極",
+   "lesson": 51
+ },
+ {
+   "kanji": "牙",
+   "lesson": 52
+ },
+ {
+   "kanji": "芽",
+   "lesson": 52
+ },
+ {
+   "kanji": "邪",
+   "lesson": 52
+ },
+ {
+   "kanji": "雅",
+   "lesson": 52
+ },
+ {
+   "kanji": "釈",
+   "lesson": 52
+ },
+ {
+   "kanji": "番",
+   "lesson": 52
+ },
+ {
+   "kanji": "審",
+   "lesson": 52
+ },
+ {
+   "kanji": "翻",
+   "lesson": 52
+ },
+ {
+   "kanji": "藩",
+   "lesson": 52
+ },
+ {
+   "kanji": "毛",
+   "lesson": 52
+ },
+ {
+   "kanji": "耗",
+   "lesson": 52
+ },
+ {
+   "kanji": "尾",
+   "lesson": 52
+ },
+ {
+   "kanji": "宅",
+   "lesson": 52
+ },
+ {
+   "kanji": "託",
+   "lesson": 52
+ },
+ {
+   "kanji": "為",
+   "lesson": 52
+ },
+ {
+   "kanji": "偽",
+   "lesson": 52
+ },
+ {
+   "kanji": "畏",
+   "lesson": 52
+ },
+ {
+   "kanji": "長",
+   "lesson": 52
+ },
+ {
+   "kanji": "張",
+   "lesson": 52
+ },
+ {
+   "kanji": "帳",
+   "lesson": 52
+ },
+ {
+   "kanji": "脹",
+   "lesson": 52
+ },
+ {
+   "kanji": "髪",
+   "lesson": 52
+ },
+ {
+   "kanji": "展",
+   "lesson": 52
+ },
+ {
+   "kanji": "喪",
+   "lesson": 52
+ },
+ {
+   "kanji": "巣",
+   "lesson": 53
+ },
+ {
+   "kanji": "単",
+   "lesson": 53
+ },
+ {
+   "kanji": "戦",
+   "lesson": 53
+ },
+ {
+   "kanji": "禅",
+   "lesson": 53
+ },
+ {
+   "kanji": "弾",
+   "lesson": 53
+ },
+ {
+   "kanji": "桜",
+   "lesson": 53
+ },
+ {
+   "kanji": "獣",
+   "lesson": 53
+ },
+ {
+   "kanji": "脳",
+   "lesson": 53
+ },
+ {
+   "kanji": "悩",
+   "lesson": 53
+ },
+ {
+   "kanji": "厳",
+   "lesson": 53
+ },
+ {
+   "kanji": "鎖",
+   "lesson": 53
+ },
+ {
+   "kanji": "挙",
+   "lesson": 53
+ },
+ {
+   "kanji": "誉",
+   "lesson": 53
+ },
+ {
+   "kanji": "猟",
+   "lesson": 53
+ },
+ {
+   "kanji": "鳥",
+   "lesson": 53
+ },
+ {
+   "kanji": "鳴",
+   "lesson": 53
+ },
+ {
+   "kanji": "鶴",
+   "lesson": 53
+ },
+ {
+   "kanji": "烏",
+   "lesson": 53
+ },
+ {
+   "kanji": "蔦",
+   "lesson": 53
+ },
+ {
+   "kanji": "鳩",
+   "lesson": 53
+ },
+ {
+   "kanji": "鶏",
+   "lesson": 53
+ },
+ {
+   "kanji": "島",
+   "lesson": 53
+ },
+ {
+   "kanji": "暖",
+   "lesson": 53
+ },
+ {
+   "kanji": "媛",
+   "lesson": 53
+ },
+ {
+   "kanji": "援",
+   "lesson": 53
+ },
+ {
+   "kanji": "緩",
+   "lesson": 53
+ },
+ {
+   "kanji": "属",
+   "lesson": 53
+ },
+ {
+   "kanji": "嘱",
+   "lesson": 53
+ },
+ {
+   "kanji": "偶",
+   "lesson": 53
+ },
+ {
+   "kanji": "遇",
+   "lesson": 53
+ },
+ {
+   "kanji": "愚",
+   "lesson": 53
+ },
+ {
+   "kanji": "隅",
+   "lesson": 53
+ },
+ {
+   "kanji": "逆",
+   "lesson": 53
+ },
+ {
+   "kanji": "塑",
+   "lesson": 53
+ },
+ {
+   "kanji": "遡",
+   "lesson": 53
+ },
+ {
+   "kanji": "岡",
+   "lesson": 53
+ },
+ {
+   "kanji": "鋼",
+   "lesson": 53
+ },
+ {
+   "kanji": "綱",
+   "lesson": 53
+ },
+ {
+   "kanji": "剛",
+   "lesson": 53
+ },
+ {
+   "kanji": "缶",
+   "lesson": 53
+ },
+ {
+   "kanji": "陶",
+   "lesson": 53
+ },
+ {
+   "kanji": "揺",
+   "lesson": 53
+ },
+ {
+   "kanji": "謡",
+   "lesson": 53
+ },
+ {
+   "kanji": "鬱",
+   "lesson": 53
+ },
+ {
+   "kanji": "就",
+   "lesson": 53
+ },
+ {
+   "kanji": "蹴",
+   "lesson": 53
+ },
+ {
+   "kanji": "懇",
+   "lesson": 53
+ },
+ {
+   "kanji": "墾",
+   "lesson": 53
+ },
+ {
+   "kanji": "貌",
+   "lesson": 53
+ },
+ {
+   "kanji": "免",
+   "lesson": 53
+ },
+ {
+   "kanji": "逸",
+   "lesson": 53
+ },
+ {
+   "kanji": "晩",
+   "lesson": 53
+ },
+ {
+   "kanji": "勉",
+   "lesson": 53
+ },
+ {
+   "kanji": "象",
+   "lesson": 53
+ },
+ {
+   "kanji": "像",
+   "lesson": 53
+ },
+ {
+   "kanji": "馬",
+   "lesson": 54
+ },
+ {
+   "kanji": "駒",
+   "lesson": 54
+ },
+ {
+   "kanji": "験",
+   "lesson": 54
+ },
+ {
+   "kanji": "騎",
+   "lesson": 54
+ },
+ {
+   "kanji": "駐",
+   "lesson": 54
+ },
+ {
+   "kanji": "駆",
+   "lesson": 54
+ },
+ {
+   "kanji": "駅",
+   "lesson": 54
+ },
+ {
+   "kanji": "騒",
+   "lesson": 54
+ },
+ {
+   "kanji": "駄",
+   "lesson": 54
+ },
+ {
+   "kanji": "驚",
+   "lesson": 54
+ },
+ {
+   "kanji": "篤",
+   "lesson": 54
+ },
+ {
+   "kanji": "罵",
+   "lesson": 54
+ },
+ {
+   "kanji": "騰",
+   "lesson": 54
+ },
+ {
+   "kanji": "虎",
+   "lesson": 54
+ },
+ {
+   "kanji": "虜",
+   "lesson": 54
+ },
+ {
+   "kanji": "膚",
+   "lesson": 54
+ },
+ {
+   "kanji": "虚",
+   "lesson": 54
+ },
+ {
+   "kanji": "戯",
+   "lesson": 54
+ },
+ {
+   "kanji": "虞",
+   "lesson": 54
+ },
+ {
+   "kanji": "慮",
+   "lesson": 54
+ },
+ {
+   "kanji": "劇",
+   "lesson": 54
+ },
+ {
+   "kanji": "虐",
+   "lesson": 54
+ },
+ {
+   "kanji": "鹿",
+   "lesson": 54
+ },
+ {
+   "kanji": "麓",
+   "lesson": 54
+ },
+ {
+   "kanji": "薦",
+   "lesson": 54
+ },
+ {
+   "kanji": "慶",
+   "lesson": 54
+ },
+ {
+   "kanji": "麗",
+   "lesson": 54
+ },
+ {
+   "kanji": "熊",
+   "lesson": 54
+ },
+ {
+   "kanji": "能",
+   "lesson": 54
+ },
+ {
+   "kanji": "態",
+   "lesson": 54
+ },
+ {
+   "kanji": "寅",
+   "lesson": 55
+ },
+ {
+   "kanji": "演",
+   "lesson": 55
+ },
+ {
+   "kanji": "辰",
+   "lesson": 55
+ },
+ {
+   "kanji": "辱",
+   "lesson": 55
+ },
+ {
+   "kanji": "震",
+   "lesson": 55
+ },
+ {
+   "kanji": "振",
+   "lesson": 55
+ },
+ {
+   "kanji": "娠",
+   "lesson": 55
+ },
+ {
+   "kanji": "唇",
+   "lesson": 55
+ },
+ {
+   "kanji": "農",
+   "lesson": 55
+ },
+ {
+   "kanji": "濃",
+   "lesson": 55
+ },
+ {
+   "kanji": "送",
+   "lesson": 55
+ },
+ {
+   "kanji": "関",
+   "lesson": 55
+ },
+ {
+   "kanji": "咲",
+   "lesson": 55
+ },
+ {
+   "kanji": "鬼",
+   "lesson": 55
+ },
+ {
+   "kanji": "醜",
+   "lesson": 55
+ },
+ {
+   "kanji": "魂",
+   "lesson": 55
+ },
+ {
+   "kanji": "魔",
+   "lesson": 55
+ },
+ {
+   "kanji": "魅",
+   "lesson": 55
+ },
+ {
+   "kanji": "塊",
+   "lesson": 55
+ },
+ {
+   "kanji": "襲",
+   "lesson": 55
+ },
+ {
+   "kanji": "嚇",
+   "lesson": 56
+ },
+ {
+   "kanji": "朕",
+   "lesson": 56
+ },
+ {
+   "kanji": "雰",
+   "lesson": 56
+ },
+ {
+   "kanji": "箇",
+   "lesson": 56
+ },
+ {
+   "kanji": "錬",
+   "lesson": 56
+ },
+ {
+   "kanji": "遵",
+   "lesson": 56
+ },
+ {
+   "kanji": "罷",
+   "lesson": 56
+ },
+ {
+   "kanji": "屯",
+   "lesson": 56
+ },
+ {
+   "kanji": "且",
+   "lesson": 56
+ },
+ {
+   "kanji": "藻",
+   "lesson": 56
+ },
+ {
+   "kanji": "隷",
+   "lesson": 56
+ },
+ {
+   "kanji": "癒",
+   "lesson": 56
+ },
+ {
+   "kanji": "璽",
+   "lesson": 56
+ },
+ {
+   "kanji": "潟",
+   "lesson": 56
+ },
+ {
+   "kanji": "丹",
+   "lesson": 56
+ },
+ {
+   "kanji": "丑",
+   "lesson": 56
+ },
+ {
+   "kanji": "羞",
+   "lesson": 56
+ },
+ {
+   "kanji": "卯",
+   "lesson": 56
+ },
+ {
+   "kanji": "巳",
+   "lesson": 56
+ }
+]

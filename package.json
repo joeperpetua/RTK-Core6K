@@ -1,0 +1,15 @@
+{
+  "name": "rtk-core-6k",
+  "version": "1.0.0",
+  "description": "Core 6K Anki deck ordered for RTK",
+  "main": "main.js",
+  "scripts": {
+    "anki": "createDeck.js",
+    "create": "main.js"
+  },
+  "author": "Joel Perpetua",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}

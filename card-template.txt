@@ -1,0 +1,53 @@
+// front
+<span style="font-size: 50px;  ">{{Vocabulary-Kanji}}</span>
+
+
+// back
+{{FrontSide}}
+ 
+<hr id=answer>
+ 
+{{Vocabulary-Audio}}
+{{Sentence-Audio}}
+<span style="font-size: 30px; ">{{Vocabulary-English}}</span>
+<br>
+<span style="font-size: 35px; ">{{Vocabulary-Kana}}</span>
+<br>
+<span style="font-size: 14px; ">{{Vocabulary-Pos}}</span>
+<br>
+<span style="font-size: 40px; ">{{furigana:Reading}}</span>
+<br><br>
+<details>
+	<summary>...</summary>
+	<span style="font-size: 25px; ">{{Sentence-English}}</span>
+</details>
+
+<br>
+
+// css
+.card {
+	display: flex;
+ 	font-family: arial;
+ 	font-size: 25px;
+ 	text-align: center;
+	justify-content: center;
+	align-items: center;
+	height: 90vh;
+}
+
+.card.nightMode{
+ 	color: White;
+ 	background-color: #2F2F31;
+}
+
+details{
+	cursor: pointer;
+}
+
+summary:focus {
+     outline: 0;
+}
+
+details summary::-webkit-details-marker {
+  display:none;
+}
